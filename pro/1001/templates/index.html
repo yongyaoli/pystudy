@@ -1,0 +1,18 @@
+$def with(movie)
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>我的模板</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <ul>
+        $for i in movie:
+        <li><a href="/movie/$:(i.article_id).html">$:i.article_title</a></li>
+    </ul>
+    <a href="/page/list_2.html" style="">下一页</a>
+</body>
+
+</html>
