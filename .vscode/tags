@@ -1,0 +1,1778 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLOWED_AST_NODES	../pro/1001/web/template.py	/^ALLOWED_AST_NODES = ['Interactive', 'Expression', 'Suite', 'FunctionDef',$/;"	kind:variable	line:1128
+ASTERISK	../pro/1001/web/wsgiserver/wsgiserver2.py	/^ASTERISK = ntob('*')$/;"	kind:variable	line:171
+ASTERISK	../pro/1001/web/wsgiserver/wsgiserver3.py	/^ASTERISK = ntob('*')$/;"	kind:variable	line:157
+AppBrowser	../pro/1001/web/browser.py	/^class AppBrowser(Browser):$/;"	kind:class	line:212
+AppHandler	../pro/1001/web/browser.py	/^class AppHandler(HTTPHandler):$/;"	kind:class	line:234
+AssignmentNode	../pro/1001/web/template.py	/^class AssignmentNode:$/;"	kind:class	line:592
+AttributeList	../pro/1001/web/form.py	/^class AttributeList(dict):$/;"	kind:class	line:182
+BadRequest	../pro/1001/web/webapi.py	/^class BadRequest(HTTPError):$/;"	kind:class	line:135
+BaseHTTPRequestHandler	../pro/1001/web/httpserver.py	/^    from BaseHTTPServer import HTTPServer, BaseHTTPRequestHandler$/;"	kind:namespace	line:14
+BaseHTTPRequestHandler	../pro/1001/web/httpserver.py	/^    from http.server import HTTPServer, SimpleHTTPRequestHandler, BaseHTTPRequestHandler$/;"	kind:namespace	line:16
+BaseTemplate	../pro/1001/web/template.py	/^class BaseTemplate:$/;"	kind:class	line:812
+BeautifulSoup	../pro/1001/web/browser.py	/^        import BeautifulSoup$/;"	kind:namespace	line:118
+BetterIter	../pro/1001/web/template.py	/^        class BetterIter:$/;"	kind:class	line:334
+BlockNode	../pro/1001/web/template.py	/^class BlockNode:$/;"	kind:class	line:618
+Browser	../pro/1001/web/browser.py	/^class Browser:$/;"	kind:class	line:51
+BrowserError	../pro/1001/web/browser.py	/^class BrowserError(Exception):$/;"	kind:class	line:48
+BuiltinSSLAdapter	../pro/1001/web/wsgiserver/ssl_builtin.py	/^class BuiltinSSLAdapter(wsgiserver.SSLAdapter):$/;"	kind:class	line:27
+Button	../pro/1001/web/form.py	/^class Button(Input):$/;"	kind:class	line:361
+BytesIO	../pro/1001/web/application.py	/^from io import BytesIO$/;"	kind:namespace	line:37
+BytesIO	../pro/1001/web/browser.py	/^from io import BytesIO, StringIO$/;"	kind:namespace	line:6
+BytesIO	../pro/1001/web/httpserver.py	/^    from StringIO import BytesIO$/;"	kind:namespace	line:28
+BytesIO	../pro/1001/web/httpserver.py	/^    from io import BytesIO$/;"	kind:namespace	line:26
+BytesIO	../pro/1001/web/webapi.py	/^from io import StringIO, BytesIO$/;"	kind:namespace	line:44
+COLON	../pro/1001/web/wsgiserver/wsgiserver2.py	/^COLON = ntob(':')$/;"	kind:variable	line:166
+COLON	../pro/1001/web/wsgiserver/wsgiserver3.py	/^COLON = ntob(':')$/;"	kind:variable	line:152
+CONTENT_TYPES	../pro/1001/web/template.py	/^    CONTENT_TYPES = {$/;"	kind:variable	line:854
+CP_BufferedWriter	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class CP_BufferedWriter(io.BufferedWriter):$/;"	kind:class	line:1011
+CP_fileobject	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class CP_fileobject(socket._fileobject):$/;"	kind:class	line:1004
+CP_makefile	../pro/1001/web/wsgiserver/wsgiserver3.py	/^def CP_makefile(sock, mode='r', bufsize=DEFAULT_BUFFER_SIZE):$/;"	kind:function	line:1037
+CRLF	../pro/1001/web/wsgiserver/wsgiserver2.py	/^CRLF = ntob('\\r\\n')$/;"	kind:variable	line:163
+CRLF	../pro/1001/web/wsgiserver/wsgiserver3.py	/^CRLF = ntob('\\r\\n')$/;"	kind:variable	line:149
+CaptureStdout	../pro/1001/web/utils.py	/^class CaptureStdout:$/;"	kind:class	line:1056
+Checkbox	../pro/1001/web/form.py	/^class Checkbox(Input):$/;"	kind:class	line:324
+CherryPyWSGIServer	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class CherryPyWSGIServer(HTTPServer):$/;"	kind:class	line:2205
+CherryPyWSGIServer	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class CherryPyWSGIServer(HTTPServer):$/;"	kind:class	line:1930
+ChunkedRFile	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class ChunkedRFile(object):$/;"	kind:class	line:404
+ChunkedRFile	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class ChunkedRFile(object):$/;"	kind:class	line:390
+ClientForm	../pro/1001/web/browser.py	/^            import ClientForm$/;"	kind:namespace	line:180
+CodeNode	../pro/1001/web/template.py	/^class CodeNode:$/;"	kind:class	line:645
+CompiledTemplate	../pro/1001/web/template.py	/^        out.write('from web.template import CompiledTemplate, ForLoop, TemplateResult\\n\\n')$/;"	kind:namespace	line:1092
+CompiledTemplate	../pro/1001/web/template.py	/^class CompiledTemplate(Template):$/;"	kind:class	line:952
+Conflict	../pro/1001/web/webapi.py	/^class Conflict(HTTPError):$/;"	kind:class	line:212
+ConnectionClass	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    ConnectionClass = HTTPConnection$/;"	kind:variable	line:1788
+ConnectionClass	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    ConnectionClass = HTTPConnection$/;"	kind:variable	line:1514
+CookieJar	../pro/1001/web/browser.py	/^    from cookielib import CookieJar$/;"	kind:namespace	line:37
+CookieJar	../pro/1001/web/browser.py	/^    from http.cookiejar import CookieJar$/;"	kind:namespace	line:30
+Counter	../pro/1001/web/utils.py	/^class Counter(storage):$/;"	kind:class	line:166
+DB	../pro/1001/web/db.py	/^class DB: $/;"	kind:class	line:487
+DBStore	../pro/1001/web/session.py	/^class DBStore(Store):$/;"	kind:class	line:280
+DBUtils	../pro/1001/web/db.py	/^            import DBUtils$/;"	kind:namespace	line:505
+DEBUG	../pro/1001/web/browser.py	/^DEBUG = False$/;"	kind:variable	line:40
+DEFAULT_BUFFER_SIZE	../pro/1001/web/wsgiserver/ssl_builtin.py	/^        DEFAULT_BUFFER_SIZE = -1$/;"	kind:variable	line:20
+DEFAULT_BUFFER_SIZE	../pro/1001/web/wsgiserver/ssl_builtin.py	/^        from io import DEFAULT_BUFFER_SIZE$/;"	kind:namespace	line:18
+DEFAULT_BUFFER_SIZE	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    from _pyio import DEFAULT_BUFFER_SIZE$/;"	kind:namespace	line:15
+DEFAULT_BUFFER_SIZE	../pro/1001/web/wsgiserver/wsgiserver2.py	/^DEFAULT_BUFFER_SIZE = io.DEFAULT_BUFFER_SIZE$/;"	kind:variable	line:118
+DEFAULT_BUFFER_SIZE	../pro/1001/web/wsgiserver/wsgiserver3.py	/^DEFAULT_BUFFER_SIZE = io.DEFAULT_BUFFER_SIZE$/;"	kind:variable	line:116
+DefNode	../pro/1001/web/template.py	/^class DefNode(BlockNode):$/;"	kind:class	line:677
+DefwithNode	../pro/1001/web/template.py	/^class DefwithNode:$/;"	kind:class	line:539
+DictMixin	../pro/1001/web/template.py	/^    from UserDict import DictMixin$/;"	kind:namespace	line:53
+DiskStore	../pro/1001/web/session.py	/^class DiskStore(Store):$/;"	kind:class	line:212
+Dispatch	../pro/1001/web/utils.py	/^            class Dispatch(threading.Thread):$/;"	kind:class	line:383
+Dropdown	../pro/1001/web/form.py	/^class Dropdown(Input):$/;"	kind:class	line:231
+EMPTY	../pro/1001/web/wsgiserver/wsgiserver2.py	/^EMPTY = ntob('')$/;"	kind:variable	line:168
+EMPTY	../pro/1001/web/wsgiserver/wsgiserver3.py	/^EMPTY = ntob('')$/;"	kind:variable	line:154
+ElifNode	../pro/1001/web/template.py	/^class ElifNode(BlockNode):$/;"	kind:class	line:674
+ElseNode	../pro/1001/web/template.py	/^class ElseNode(BlockNode):$/;"	kind:class	line:671
+Environment	../pro/1001/web/contrib/template.py	/^        from jinja2 import Environment,FileSystemLoader$/;"	kind:namespace	line:88
+ExpressionNode	../pro/1001/web/template.py	/^class ExpressionNode:$/;"	kind:class	line:572
+FILTERS	../pro/1001/web/template.py	/^    FILTERS = {$/;"	kind:variable	line:859
+FORWARD_SLASH	../pro/1001/web/wsgiserver/wsgiserver2.py	/^FORWARD_SLASH = ntob('\/')$/;"	kind:variable	line:172
+FORWARD_SLASH	../pro/1001/web/wsgiserver/wsgiserver3.py	/^FORWARD_SLASH = ntob('\/')$/;"	kind:variable	line:158
+FakeSocket	../pro/1001/web/httpserver.py	/^        class FakeSocket:$/;"	kind:class	line:311
+FatalSSLAlert	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class FatalSSLAlert(Exception):$/;"	kind:class	line:998
+FatalSSLAlert	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class FatalSSLAlert(Exception):$/;"	kind:class	line:1005
+FauxSocket	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class FauxSocket(object):$/;"	kind:class	line:127
+File	../pro/1001/web/form.py	/^class File(Input):$/;"	kind:class	line:393
+FileSystemLoader	../pro/1001/web/contrib/template.py	/^        from jinja2 import Environment,FileSystemLoader$/;"	kind:namespace	line:88
+FirebirdDB	../pro/1001/web/db.py	/^class FirebirdDB(DB):$/;"	kind:class	line:1063
+ForLoop	../pro/1001/web/template.py	/^        out.write('from web.template import CompiledTemplate, ForLoop, TemplateResult\\n\\n')$/;"	kind:namespace	line:1092
+ForLoop	../pro/1001/web/template.py	/^class ForLoop:$/;"	kind:class	line:749
+ForLoopContext	../pro/1001/web/template.py	/^class ForLoopContext:$/;"	kind:class	line:784
+ForNode	../pro/1001/web/template.py	/^class ForNode(BlockNode):$/;"	kind:class	line:632
+Forbidden	../pro/1001/web/webapi.py	/^class Forbidden(HTTPError):$/;"	kind:class	line:155
+Form	../pro/1001/web/form.py	/^class Form(object):$/;"	kind:class	line:23
+Found	../pro/1001/web/webapi.py	/^class Found(Redirect):$/;"	kind:class	line:107
+GAE_Render	../pro/1001/web/template.py	/^class GAE_Render(Render):$/;"	kind:class	line:1042
+GET	../pro/1001/web/debugerror.py	/^        def GET(self):$/;"	kind:member	line:359
+GET	../pro/1001/web/webopenid.py	/^    def GET(self):$/;"	kind:member	line:103
+GET	../pro/1001/webapp.py	/^    def GET(self,id): $/;"	kind:member	line:40
+GET	../pro/1001/webapp.py	/^    def GET(self,page=1): #函数名是该请求的请求方式$/;"	kind:member	line:31
+Gateway	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class Gateway(object):$/;"	kind:class	line:2156
+Gateway	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class Gateway(object):$/;"	kind:class	line:1881
+Gone	../pro/1001/web/webapi.py	/^class Gone(HTTPError):$/;"	kind:class	line:222
+GroupedDropdown	../pro/1001/web/form.py	/^class GroupedDropdown(Dropdown):$/;"	kind:class	line:274
+HTTPConnection	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class HTTPConnection(object):$/;"	kind:class	line:1315
+HTTPConnection	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class HTTPConnection(object):$/;"	kind:class	line:1044
+HTTPCookieProcessor	../pro/1001/web/browser.py	/^    from urllib.request import HTTPHandler, HTTPCookieProcessor, build_opener, Request, HTTPError$/;"	kind:namespace	line:27
+HTTPCookieProcessor	../pro/1001/web/browser.py	/^    from urllib2 import HTTPHandler, HTTPCookieProcessor, Request, HTTPError$/;"	kind:namespace	line:35
+HTTPError	../pro/1001/web/browser.py	/^    from urllib.request import HTTPHandler, HTTPCookieProcessor, build_opener, Request, HTTPError$/;"	kind:namespace	line:27
+HTTPError	../pro/1001/web/browser.py	/^    from urllib2 import HTTPHandler, HTTPCookieProcessor, Request, HTTPError$/;"	kind:namespace	line:35
+HTTPError	../pro/1001/web/webapi.py	/^class HTTPError(Exception):$/;"	kind:class	line:54
+HTTPHandler	../pro/1001/web/browser.py	/^    from urllib.request import HTTPHandler, HTTPCookieProcessor, build_opener, Request, HTTPError$/;"	kind:namespace	line:27
+HTTPHandler	../pro/1001/web/browser.py	/^    from urllib2 import HTTPHandler, HTTPCookieProcessor, Request, HTTPError$/;"	kind:namespace	line:35
+HTTPMessage	../pro/1001/web/browser.py	/^    from http.client import HTTPMessage$/;"	kind:namespace	line:26
+HTTPMessage	../pro/1001/web/browser.py	/^    from httplib import HTTPMessage$/;"	kind:namespace	line:33
+HTTPRequest	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class HTTPRequest(object):$/;"	kind:class	line:557
+HTTPRequest	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class HTTPRequest(object):$/;"	kind:class	line:543
+HTTPServer	../pro/1001/web/httpserver.py	/^    from BaseHTTPServer import HTTPServer, BaseHTTPRequestHandler$/;"	kind:namespace	line:14
+HTTPServer	../pro/1001/web/httpserver.py	/^    from http.server import HTTPServer, SimpleHTTPRequestHandler, BaseHTTPRequestHandler$/;"	kind:namespace	line:16
+HTTPServer	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class HTTPServer(object):$/;"	kind:class	line:1729
+HTTPServer	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class HTTPServer(object):$/;"	kind:class	line:1454
+Hidden	../pro/1001/web/form.py	/^class Hidden(Input):$/;"	kind:class	line:381
+INDENT	../pro/1001/web/template.py	/^INDENT = '    ' # 4 spaces$/;"	kind:variable	line:616
+IfNode	../pro/1001/web/template.py	/^class IfNode(BlockNode):$/;"	kind:class	line:668
+Input	../pro/1001/web/form.py	/^class Input(object):$/;"	kind:class	line:124
+InternalError	../pro/1001/web/webapi.py	/^def InternalError(message=None):$/;"	kind:function	line:281
+IterBetter	../pro/1001/web/utils.py	/^class IterBetter:$/;"	kind:class	line:609
+KEYWORDS	../pro/1001/web/template.py	/^KEYWORDS = [$/;"	kind:variable	line:726
+KnownLengthRFile	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class KnownLengthRFile(object):$/;"	kind:class	line:347
+KnownLengthRFile	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class KnownLengthRFile(object):$/;"	kind:class	line:333
+L	../sample/c3.py	/^L = [$/;"	kind:variable	line:56
+L	../sample/c3.py	/^L = ['Bart', 'Lisa', 'Adam']$/;"	kind:variable	line:144
+LF	../pro/1001/web/wsgiserver/wsgiserver2.py	/^LF = ntob('\\n')$/;"	kind:variable	line:162
+LF	../pro/1001/web/wsgiserver/wsgiserver3.py	/^LF = ntob('\\n')$/;"	kind:variable	line:148
+LineNode	../pro/1001/web/template.py	/^class LineNode:$/;"	kind:class	line:602
+LogMiddleware	../pro/1001/web/httpserver.py	/^class LogMiddleware:$/;"	kind:class	line:303
+MSSQLDB	../pro/1001/web/db.py	/^class MSSQLDB(DB):$/;"	kind:class	line:1097
+MaxSizeExceeded	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class MaxSizeExceeded(Exception):$/;"	kind:class	line:273
+MaxSizeExceeded	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class MaxSizeExceeded(Exception):$/;"	kind:class	line:259
+Memoize	../pro/1001/web/utils.py	/^class Memoize:$/;"	kind:class	line:408
+Message	../pro/1001/web/utils.py	/^        from email.message import Message$/;"	kind:namespace	line:1419
+Morsel	../pro/1001/web/webapi.py	/^    from Cookie import Morsel$/;"	kind:namespace	line:42
+Morsel	../pro/1001/web/webapi.py	/^    from http.cookies import Morsel$/;"	kind:namespace	line:39
+MutableMapping	../pro/1001/web/template.py	/^    class MutableMapping(object, DictMixin):$/;"	kind:class	line:56
+MutableMapping	../pro/1001/web/template.py	/^    from collections import MutableMapping$/;"	kind:namespace	line:59
+MySQLDB	../pro/1001/web/db.py	/^class MySQLDB(DB): $/;"	kind:class	line:1001
+NAME	../pro/1001/web/template.py	/^            from token import NAME # python token constants$/;"	kind:namespace	line:291
+NUMBER_SIGN	../pro/1001/web/wsgiserver/wsgiserver2.py	/^NUMBER_SIGN = ntob('#')$/;"	kind:variable	line:169
+NUMBER_SIGN	../pro/1001/web/wsgiserver/wsgiserver3.py	/^NUMBER_SIGN = ntob('#')$/;"	kind:variable	line:155
+NoMethod	../pro/1001/web/webapi.py	/^class NoMethod(HTTPError):$/;"	kind:class	line:185
+NoSSLError	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class NoSSLError(Exception):$/;"	kind:class	line:992
+NoSSLError	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class NoSSLError(Exception):$/;"	kind:class	line:999
+NotAcceptable	../pro/1001/web/webapi.py	/^class NotAcceptable(HTTPError):$/;"	kind:class	line:202
+NotFound	../pro/1001/web/webapi.py	/^def NotFound(message=None):$/;"	kind:function	line:173
+NotModified	../pro/1001/web/webapi.py	/^class NotModified(HTTPError):$/;"	kind:class	line:121
+OracleDB	../pro/1001/web/db.py	/^class OracleDB(DB): $/;"	kind:class	line:1140
+POST	../pro/1001/web/webopenid.py	/^    def POST(self):$/;"	kind:member	line:83
+PY2	../pro/1001/web/application.py	/^from .py3helpers import iteritems, string_types, is_iter, PY2, text_type$/;"	kind:namespace	line:12
+PY2	../pro/1001/web/browser.py	/^from .py3helpers import PY2$/;"	kind:namespace	line:10
+PY2	../pro/1001/web/db.py	/^from .py3helpers import PY2, string_types, numeric_types, iteritems$/;"	kind:namespace	line:9
+PY2	../pro/1001/web/debugerror.py	/^from .py3helpers import urljoin, PY2$/;"	kind:namespace	line:18
+PY2	../pro/1001/web/httpserver.py	/^from .py3helpers import PY2$/;"	kind:namespace	line:10
+PY2	../pro/1001/web/net.py	/^from .py3helpers import PY2$/;"	kind:namespace	line:23
+PY2	../pro/1001/web/session.py	/^from .py3helpers import PY2$/;"	kind:namespace	line:18
+PY2	../pro/1001/web/template.py	/^from .py3helpers import PY2, iteritems$/;"	kind:namespace	line:50
+PY2	../pro/1001/web/test.py	/^from .py3helpers import PY2$/;"	kind:namespace	line:8
+PY2	../pro/1001/web/utils.py	/^from .py3helpers import PY2, itervalues, iteritems, text_type, string_types, imap, is_iter$/;"	kind:namespace	line:41
+PY2	../pro/1001/web/webapi.py	/^from .py3helpers import PY2, urljoin, string_types$/;"	kind:namespace	line:35
+ParseError	../pro/1001/web/template.py	/^class ParseError(Exception):$/;"	kind:class	line:1121
+Parser	../pro/1001/web/template.py	/^class Parser:$/;"	kind:class	line:78
+Password	../pro/1001/web/form.py	/^class Password(Input):$/;"	kind:class	line:209
+PooledDB	../pro/1001/web/db.py	/^            from DBUtils import PooledDB$/;"	kind:namespace	line:559
+PostgresDB	../pro/1001/web/db.py	/^class PostgresDB(DB): $/;"	kind:class	line:945
+PreconditionFailed	../pro/1001/web/webapi.py	/^class PreconditionFailed(HTTPError):$/;"	kind:class	line:232
+Profile	../pro/1001/web/utils.py	/^class Profile:$/;"	kind:class	line:1081
+Py	../pro/1001/web/application.py	/^        from imp import reload #Since Py 3.0 and before 3.4 reload is in imp$/;"	kind:namespace	line:33
+Py23DocChecker	../pro/1001/web/test.py	/^class Py23DocChecker(doctest.OutputChecker):$/;"	kind:class	line:27
+PythonTokenizer	../pro/1001/web/template.py	/^class PythonTokenizer:$/;"	kind:class	line:487
+QUESTION_MARK	../pro/1001/web/wsgiserver/wsgiserver2.py	/^QUESTION_MARK = ntob('?')$/;"	kind:variable	line:170
+QUESTION_MARK	../pro/1001/web/wsgiserver/wsgiserver3.py	/^QUESTION_MARK = ntob('?')$/;"	kind:variable	line:156
+Radio	../pro/1001/web/form.py	/^class Radio(Input):$/;"	kind:class	line:302
+Redirect	../pro/1001/web/webapi.py	/^class Redirect(HTTPError):$/;"	kind:class	line:82
+Reloader	../pro/1001/web/application.py	/^class Reloader:$/;"	kind:class	line:722
+Render	../pro/1001/web/template.py	/^class Render:$/;"	kind:class	line:963
+Request	../pro/1001/web/browser.py	/^    from urllib.request import HTTPHandler, HTTPCookieProcessor, build_opener, Request, HTTPError$/;"	kind:namespace	line:27
+Request	../pro/1001/web/browser.py	/^    from urllib2 import HTTPHandler, HTTPCookieProcessor, Request, HTTPError$/;"	kind:namespace	line:35
+RequestHandlerClass	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    RequestHandlerClass = HTTPRequest$/;"	kind:variable	line:1329
+RequestHandlerClass	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    RequestHandlerClass = HTTPRequest$/;"	kind:variable	line:1058
+SEMICOLON	../pro/1001/web/wsgiserver/wsgiserver2.py	/^SEMICOLON = ntob(';')$/;"	kind:variable	line:167
+SEMICOLON	../pro/1001/web/wsgiserver/wsgiserver3.py	/^SEMICOLON = ntob(';')$/;"	kind:variable	line:153
+SPACE	../pro/1001/web/wsgiserver/wsgiserver2.py	/^SPACE = ntob(' ')$/;"	kind:variable	line:165
+SPACE	../pro/1001/web/wsgiserver/wsgiserver3.py	/^SPACE = ntob(' ')$/;"	kind:variable	line:151
+SQLLiteral	../pro/1001/web/db.py	/^class SQLLiteral: $/;"	kind:class	line:261
+SQLParam	../pro/1001/web/db.py	/^class SQLParam(object):$/;"	kind:class	line:61
+SQLQuery	../pro/1001/web/db.py	/^class SQLQuery(object):$/;"	kind:class	line:104
+SSL	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    SSL = None$/;"	kind:variable	line:43
+SSL	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    from OpenSSL import SSL$/;"	kind:namespace	line:40
+SSLAdapter	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class SSLAdapter(object):$/;"	kind:class	line:1706
+SSLAdapter	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class SSLAdapter(object):$/;"	kind:class	line:1431
+SSLConnection	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^class SSLConnection:$/;"	kind:class	line:112
+SSL_fileobject	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^class SSL_fileobject(wsgiserver.CP_fileobject):$/;"	kind:class	line:46
+STATEMENT_NODES	../pro/1001/web/template.py	/^STATEMENT_NODES = {$/;"	kind:variable	line:716
+SUFFIX	../pro/1001/web/application.py	/^        SUFFIX = '$py.class'$/;"	kind:variable	line:729
+SUFFIX	../pro/1001/web/application.py	/^        SUFFIX = '.pyc'$/;"	kind:variable	line:731
+SafeVisitor	../pro/1001/web/template.py	/^class SafeVisitor(ast.NodeVisitor):$/;"	kind:class	line:1144
+SecurityError	../pro/1001/web/template.py	/^class SecurityError(Exception):$/;"	kind:class	line:1124
+SeeOther	../pro/1001/web/webapi.py	/^class SeeOther(Redirect):$/;"	kind:class	line:114
+Session	../pro/1001/web/session.py	/^class Session(object):$/;"	kind:class	line:42
+SessionExpired	../pro/1001/web/session.py	/^class SessionExpired(web.HTTPError): $/;"	kind:class	line:38
+ShelfStore	../pro/1001/web/session.py	/^class ShelfStore:$/;"	kind:class	line:322
+SimpleHTTPRequestHandler	../pro/1001/web/httpserver.py	/^    from SimpleHTTPServer import SimpleHTTPRequestHandler$/;"	kind:namespace	line:13
+SimpleHTTPRequestHandler	../pro/1001/web/httpserver.py	/^    from http.server import HTTPServer, SimpleHTTPRequestHandler, BaseHTTPRequestHandler$/;"	kind:namespace	line:16
+Since	../pro/1001/web/application.py	/^        from imp import reload #Since Py 3.0 and before 3.4 reload is in imp$/;"	kind:namespace	line:33
+SizeCheckWrapper	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class SizeCheckWrapper(object):$/;"	kind:class	line:277
+SizeCheckWrapper	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class SizeCheckWrapper(object):$/;"	kind:class	line:263
+SocketServer	../pro/1001/web/httpserver.py	/^    import SocketServer$/;"	kind:namespace	line:47
+SqliteDB	../pro/1001/web/db.py	/^class SqliteDB(DB): $/;"	kind:class	line:1037
+StatementNode	../pro/1001/web/template.py	/^class StatementNode:$/;"	kind:class	line:658
+StaticApp	../pro/1001/web/httpserver.py	/^class StaticApp(SimpleHTTPRequestHandler):$/;"	kind:class	line:225
+StaticMiddleware	../pro/1001/web/httpserver.py	/^class StaticMiddleware:$/;"	kind:class	line:281
+Storage	../pro/1001/web/utils.py	/^class Storage(dict):$/;"	kind:class	line:48
+Store	../pro/1001/web/session.py	/^class Store:$/;"	kind:class	line:186
+StringIO	../pro/1001/web/browser.py	/^from io import BytesIO, StringIO$/;"	kind:namespace	line:6
+StringIO	../pro/1001/web/utils.py	/^    from StringIO import StringIO$/;"	kind:namespace	line:44
+StringIO	../pro/1001/web/utils.py	/^    from cStringIO import StringIO$/;"	kind:namespace	line:1129
+StringIO	../pro/1001/web/utils.py	/^    from io import StringIO$/;"	kind:namespace	line:46
+StringIO	../pro/1001/web/webapi.py	/^from io import StringIO, BytesIO$/;"	kind:namespace	line:44
+SuiteNode	../pro/1001/web/template.py	/^class SuiteNode:$/;"	kind:class	line:705
+TAB	../pro/1001/web/wsgiserver/wsgiserver2.py	/^TAB = ntob('\\t')$/;"	kind:variable	line:164
+TAB	../pro/1001/web/wsgiserver/wsgiserver3.py	/^TAB = ntob('\\t')$/;"	kind:variable	line:150
+TEMPLATE_BUILTINS	../pro/1001/web/template.py	/^TEMPLATE_BUILTINS = dict([(name, getattr(builtins, name)) for name in TEMPLATE_BUILTIN_NAMES if name in builtins.__dict__])$/;"	kind:variable	line:747
+TEMPLATE_BUILTIN_NAMES	../pro/1001/web/template.py	/^TEMPLATE_BUILTIN_NAMES = [$/;"	kind:variable	line:733
+TOKEN	../pro/1001/web/db.py	/^TOKEN = '[ \\\\f\\\\t]*(\\\\\\\\\\\\r?\\\\n[ \\\\f\\\\t]*)*(#[^\\\\r\\\\n]*)?(((\\\\d+[jJ]|((\\\\d+\\\\.\\\\d*|\\\\.\\\\d+)([eE][-+]?\\\\d+)?|\\\\d+[eE][-+]?\\\\d+)[jJ])|((\\\\d+\\\\.\\\\d*|\\\\.\\\\d+)([eE][-+]?\\\\d+)?|\\\\d+[eE][-+]?\\\\d+)|(0[xX][\\\\da-fA-F]+[lL]?|0[bB][01]+[lL]?|(0[oO][0-7]+)|(0[0-7]*)[lL]?|[1-9]\\\\d*[lL]?))|((\\\\*\\\\*=?|>>=?|<<=?|<>|!=|\/\/=?|[+\\\\-*\/%&|^=<>]=?|~)|[][(){}]|(\\\\r?\\\\n|[:;.,`@]))|([uUbB]?[rR]?\\'[^\\\\n\\'\\\\\\\\]*(?:\\\\\\\\.[^\\\\n\\'\\\\\\\\]*)*\\'|[uUbB]?[rR]?"[^\\\\n"\\\\\\\\]*(?:\\\\\\\\.[^\\\\n"\\\\\\\\]*)*")|[a-zA-Z_]\\\\w*)'$/;"	kind:variable	line:34
+TempRedirect	../pro/1001/web/webapi.py	/^class TempRedirect(Redirect):$/;"	kind:class	line:128
+Template	../pro/1001/web/contrib/template.py	/^        from Cheetah.Template import Template$/;"	kind:namespace	line:21
+Template	../pro/1001/web/contrib/template.py	/^        from Cheetah.Template import Template$/;"	kind:namespace	line:25
+Template	../pro/1001/web/debugerror.py	/^from .template import Template$/;"	kind:namespace	line:14
+Template	../pro/1001/web/template.py	/^class Template(BaseTemplate):$/;"	kind:class	line:853
+TemplateLoader	../pro/1001/web/contrib/template.py	/^        from genshi.template import TemplateLoader$/;"	kind:namespace	line:50
+TemplateLookup	../pro/1001/web/contrib/template.py	/^        from mako.lookup import TemplateLookup$/;"	kind:namespace	line:107
+TemplateResult	../pro/1001/web/template.py	/^        out.write('from web.template import CompiledTemplate, ForLoop, TemplateResult\\n\\n')$/;"	kind:namespace	line:1092
+TemplateResult	../pro/1001/web/template.py	/^class TemplateResult(MutableMapping):$/;"	kind:class	line:1221
+TestCase	../pro/1001/web/test.py	/^TestCase = unittest.TestCase$/;"	kind:variable	line:10
+TestSuite	../pro/1001/web/test.py	/^TestSuite = unittest.TestSuite$/;"	kind:variable	line:11
+TextNode	../pro/1001/web/template.py	/^class TextNode:$/;"	kind:class	line:562
+TextTemplate	../pro/1001/web/contrib/template.py	/^            from genshi.template import TextTemplate$/;"	kind:namespace	line:60
+Textarea	../pro/1001/web/form.py	/^class Textarea(Input):$/;"	kind:class	line:219
+Textbox	../pro/1001/web/form.py	/^class Textbox(Input):$/;"	kind:class	line:198
+ThreadPool	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class ThreadPool(object):$/;"	kind:class	line:1547
+ThreadPool	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class ThreadPool(object):$/;"	kind:class	line:1277
+ThreadedDict	../pro/1001/web/utils.py	/^class ThreadedDict(threadlocal):$/;"	kind:class	line:1179
+Transaction	../pro/1001/web/db.py	/^class Transaction:$/;"	kind:class	line:419
+TransactionError	../pro/1001/web/db.py	/^class TransactionError(Exception): pass$/;"	kind:class	line:51
+TrueyZero	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class TrueyZero(object):$/;"	kind:class	line:1445
+TrueyZero	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class TrueyZero(object):$/;"	kind:class	line:1175
+Unauthorized	../pro/1001/web/webapi.py	/^class Unauthorized(HTTPError):$/;"	kind:class	line:145
+UnavailableForLegalReasons	../pro/1001/web/webapi.py	/^def UnavailableForLegalReasons(message=None):$/;"	kind:function	line:260
+UnknownDB	../pro/1001/web/db.py	/^class UnknownDB(Exception):$/;"	kind:class	line:38
+UnknownParamstyle	../pro/1001/web/db.py	/^class UnknownParamstyle(Exception): $/;"	kind:class	line:53
+UnsupportedMediaType	../pro/1001/web/webapi.py	/^class UnsupportedMediaType(HTTPError):$/;"	kind:class	line:242
+Validator	../pro/1001/web/form.py	/^class Validator:$/;"	kind:class	line:402
+VarNode	../pro/1001/web/template.py	/^class VarNode:$/;"	kind:class	line:694
+WSGIGateway	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class WSGIGateway(Gateway):$/;"	kind:class	line:2239
+WSGIGateway	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class WSGIGateway(Gateway):$/;"	kind:class	line:1964
+WSGIGateway_10	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class WSGIGateway_10(WSGIGateway):$/;"	kind:class	line:2340
+WSGIGateway_10	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class WSGIGateway_10(WSGIGateway):$/;"	kind:class	line:2073
+WSGIGateway_u0	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class WSGIGateway_u0(WSGIGateway_10):$/;"	kind:class	line:2397
+WSGIGateway_u0	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class WSGIGateway_u0(WSGIGateway_10):$/;"	kind:class	line:2130
+WSGIHandler	../pro/1001/web/httpserver.py	/^    class WSGIHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):$/;"	kind:class	line:51
+WSGIPathInfoDispatcher	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class WSGIPathInfoDispatcher(object):$/;"	kind:class	line:2436
+WSGIPathInfoDispatcher	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class WSGIPathInfoDispatcher(object):$/;"	kind:class	line:2165
+WSGIServer	../pro/1001/web/httpserver.py	/^    class WSGIServer(SocketServer.ThreadingMixIn, HTTPServer):$/;"	kind:class	line:143
+WSGIServer	../pro/1001/web/httpserver.py	/^def WSGIServer(server_address, wsgi_app):$/;"	kind:function	line:182
+WinError	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        from ctypes import windll, WinError$/;"	kind:namespace	line:1680
+WinError	../pro/1001/web/wsgiserver/wsgiserver3.py	/^        from ctypes import windll, WinError$/;"	kind:namespace	line:1405
+WorkerThread	../pro/1001/web/wsgiserver/wsgiserver2.py	/^class WorkerThread(threading.Thread):$/;"	kind:class	line:1461
+WorkerThread	../pro/1001/web/wsgiserver/wsgiserver3.py	/^class WorkerThread(threading.Thread):$/;"	kind:class	line:1191
+_1	../pro/1001/web/utils.py	/^    def _1(function):$/;"	kind:function	line:381
+_2	../pro/1001/web/utils.py	/^        def _2(*args, **kw):$/;"	kind:function	line:382
+_EmailMessage	../pro/1001/web/utils.py	/^class _EmailMessage:$/;"	kind:class	line:1381
+_InternalError	../pro/1001/web/webapi.py	/^class _InternalError(HTTPError):$/;"	kind:class	line:272
+_ItplError	../pro/1001/web/db.py	/^class _ItplError(ValueError): $/;"	kind:class	line:42
+_NotFound	../pro/1001/web/webapi.py	/^class _NotFound(HTTPError):$/;"	kind:class	line:165
+_SHUTDOWNREQUEST	../pro/1001/web/wsgiserver/wsgiserver2.py	/^_SHUTDOWNREQUEST = None$/;"	kind:variable	line:1458
+_SHUTDOWNREQUEST	../pro/1001/web/wsgiserver/wsgiserver3.py	/^_SHUTDOWNREQUEST = None$/;"	kind:variable	line:1188
+_UnavailableForLegalReasons	../pro/1001/web/webapi.py	/^class _UnavailableForLegalReasons(HTTPError):$/;"	kind:class	line:252
+__add__	../pro/1001/web/db.py	/^    def __add__(self, other):$/;"	kind:member	line:148
+__add__	../pro/1001/web/db.py	/^    def __add__(self, other):$/;"	kind:member	line:90
+__add__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __add__(self, other):$/;"	kind:member	line:1450
+__add__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __add__(self, other):$/;"	kind:member	line:1180
+__all__	../pro/1001/web/application.py	/^__all__ = [$/;"	kind:variable	line:40
+__all__	../pro/1001/web/browser.py	/^__all__ = [$/;"	kind:variable	line:42
+__all__	../pro/1001/web/contrib/template.py	/^__all__ = [$/;"	kind:variable	line:6
+__all__	../pro/1001/web/db.py	/^__all__ = [$/;"	kind:variable	line:26
+__all__	../pro/1001/web/debugerror.py	/^__all__ = ["debugerror", "djangoerror", "emailerrors"]$/;"	kind:variable	line:11
+__all__	../pro/1001/web/http.py	/^__all__ = [$/;"	kind:variable	line:6
+__all__	../pro/1001/web/httpserver.py	/^__all__ = ["runsimple"]$/;"	kind:variable	line:30
+__all__	../pro/1001/web/net.py	/^__all__ = [$/;"	kind:variable	line:6
+__all__	../pro/1001/web/session.py	/^__all__ = [$/;"	kind:variable	line:20
+__all__	../pro/1001/web/template.py	/^__all__ = [$/;"	kind:variable	line:32
+__all__	../pro/1001/web/utils.py	/^__all__ = [$/;"	kind:variable	line:9
+__all__	../pro/1001/web/webapi.py	/^__all__ = [$/;"	kind:variable	line:7
+__all__	../pro/1001/web/wsgiserver/__init__.py	/^__all__ = ['HTTPRequest', 'HTTPConnection', 'HTTPServer',$/;"	kind:variable	line:1
+__all__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^__all__ = ['HTTPRequest', 'HTTPConnection', 'HTTPServer',$/;"	kind:variable	line:71
+__all__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^__all__ = ['HTTPRequest', 'HTTPConnection', 'HTTPServer',$/;"	kind:variable	line:71
+__author__	../pro/1001/web/__init__.py	/^__author__ = [$/;"	kind:variable	line:7
+__author__	../pro/1001/webapp.py	/^__author__ = "Liyy"$/;"	kind:variable	line:12
+__author__	../sample/c1.py	/^__author__ = "Liyy"$/;"	kind:variable	line:9
+__author__	../sample/c3.py	/^__author__ = "Liyy"$/;"	kind:variable	line:10
+__author__	../sample/c4.py	/^__author__ = "Liyy"$/;"	kind:variable	line:9
+__bool__	../pro/1001/web/utils.py	/^    __bool__ = __nonzero__$/;"	kind:variable	line:699
+__call__	../pro/1001/web/application.py	/^    def __call__(self):$/;"	kind:member	line:736
+__call__	../pro/1001/web/form.py	/^    def __call__(self, x=None):$/;"	kind:member	line:41
+__call__	../pro/1001/web/httpserver.py	/^    def __call__(self, environ, start_response):$/;"	kind:member	line:287
+__call__	../pro/1001/web/httpserver.py	/^    def __call__(self, environ, start_response):$/;"	kind:member	line:318
+__call__	../pro/1001/web/template.py	/^    def __call__(self, *a, **kw):$/;"	kind:member	line:829
+__call__	../pro/1001/web/template.py	/^    def __call__(self, *a, **kw):$/;"	kind:member	line:898
+__call__	../pro/1001/web/utils.py	/^    def __call__(self, *args): ##, **kw):   kw unused$/;"	kind:member	line:1094
+__call__	../pro/1001/web/utils.py	/^    def __call__(self, *args, **keywords):$/;"	kind:member	line:1069
+__call__	../pro/1001/web/utils.py	/^    def __call__(self, *args, **keywords):$/;"	kind:member	line:466
+__call__	../pro/1001/web/utils.py	/^    def __call__(self, match): $/;"	kind:member	line:496
+__call__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __call__(self, environ, start_response):$/;"	kind:member	line:2457
+__call__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __call__(self, environ, start_response):$/;"	kind:member	line:2186
+__contains__	../pro/1001/web/session.py	/^    def __contains__(self, key):$/;"	kind:member	line:189
+__contains__	../pro/1001/web/session.py	/^    def __contains__(self, key):$/;"	kind:member	line:242
+__contains__	../pro/1001/web/session.py	/^    def __contains__(self, key):$/;"	kind:member	line:292
+__contains__	../pro/1001/web/session.py	/^    def __contains__(self, key):$/;"	kind:member	line:333
+__contains__	../pro/1001/web/session.py	/^    def __contains__(self, name):$/;"	kind:member	line:64
+__contains__	../pro/1001/web/utils.py	/^    def __contains__(self, key):$/;"	kind:member	line:1226
+__contributors__	../pro/1001/web/__init__.py	/^__contributors__ = "see http:\/\/webpy.org\/changes"$/;"	kind:variable	line:12
+__deepcopy__	../pro/1001/web/form.py	/^    def __deepcopy__(self, memo): return copy.copy(self)$/;"	kind:member	line:403
+__del__	../pro/1001/web/utils.py	/^    def __del__(self):$/;"	kind:member	line:1201
+__delattr__	../pro/1001/web/session.py	/^    def __delattr__(self, name):$/;"	kind:member	line:76
+__delattr__	../pro/1001/web/template.py	/^    def __delattr__(self, key):$/;"	kind:member	line:1293
+__delattr__	../pro/1001/web/utils.py	/^    def __delattr__(self, key):$/;"	kind:member	line:77
+__delitem__	../pro/1001/web/session.py	/^    def __delitem__(self, key):$/;"	kind:member	line:267
+__delitem__	../pro/1001/web/session.py	/^    def __delitem__(self, key):$/;"	kind:member	line:314
+__delitem__	../pro/1001/web/session.py	/^    def __delitem__(self, key):$/;"	kind:member	line:344
+__delitem__	../pro/1001/web/template.py	/^    def __delitem__(self, name):$/;"	kind:member	line:1279
+__delitem__	../pro/1001/web/utils.py	/^    def __delitem__(self, key):$/;"	kind:member	line:1223
+__enter__	../pro/1001/web/db.py	/^    def __enter__(self):$/;"	kind:member	line:468
+__exit__	../pro/1001/web/db.py	/^    def __exit__(self, exctype, excvalue, traceback):$/;"	kind:member	line:471
+__getattr__	../pro/1001/web/contrib/template.py	/^    def __getattr__(self, name):$/;"	kind:member	line:110
+__getattr__	../pro/1001/web/contrib/template.py	/^    def __getattr__(self, name):$/;"	kind:member	line:128
+__getattr__	../pro/1001/web/contrib/template.py	/^    def __getattr__(self, name):$/;"	kind:member	line:24
+__getattr__	../pro/1001/web/contrib/template.py	/^    def __getattr__(self, name):$/;"	kind:member	line:55
+__getattr__	../pro/1001/web/contrib/template.py	/^    def __getattr__(self, name):$/;"	kind:member	line:92
+__getattr__	../pro/1001/web/form.py	/^    def __getattr__(self, name):$/;"	kind:member	line:107
+__getattr__	../pro/1001/web/session.py	/^    def __getattr__(self, name):$/;"	kind:member	line:67
+__getattr__	../pro/1001/web/template.py	/^    def __getattr__(self, key): $/;"	kind:member	line:1284
+__getattr__	../pro/1001/web/template.py	/^    def __getattr__(self, name):$/;"	kind:member	line:1033
+__getattr__	../pro/1001/web/template.py	/^    def __getattr__(self, name):$/;"	kind:member	line:768
+__getattr__	../pro/1001/web/utils.py	/^    def __getattr__(self, key): $/;"	kind:member	line:68
+__getitem__	../pro/1001/web/browser.py	/^    def __getitem__(self, key):$/;"	kind:member	line:206
+__getitem__	../pro/1001/web/form.py	/^    def __getitem__(self, i):$/;"	kind:member	line:102
+__getitem__	../pro/1001/web/session.py	/^    def __getitem__(self, key):$/;"	kind:member	line:192
+__getitem__	../pro/1001/web/session.py	/^    def __getitem__(self, key):$/;"	kind:member	line:246
+__getitem__	../pro/1001/web/session.py	/^    def __getitem__(self, key):$/;"	kind:member	line:296
+__getitem__	../pro/1001/web/session.py	/^    def __getitem__(self, key):$/;"	kind:member	line:336
+__getitem__	../pro/1001/web/template.py	/^    def __getitem__(self, name):$/;"	kind:member	line:1269
+__getitem__	../pro/1001/web/utils.py	/^    def __getitem__(self, i):$/;"	kind:member	line:672
+__getitem__	../pro/1001/web/utils.py	/^    def __getitem__(self, key):$/;"	kind:member	line:1217
+__hash__	../pro/1001/web/utils.py	/^    def __hash__(self):$/;"	kind:member	line:1204
+__iadd__	../pro/1001/web/db.py	/^    def __iadd__(self, other):$/;"	kind:member	line:165
+__init__	../pro/1001/web/application.py	/^            def __init__(klass, name, bases, attrs):$/;"	kind:member	line:578
+__init__	../pro/1001/web/application.py	/^    def __init__(self):$/;"	kind:member	line:574
+__init__	../pro/1001/web/application.py	/^    def __init__(self):$/;"	kind:member	line:733
+__init__	../pro/1001/web/application.py	/^    def __init__(self, mapping=(), fvars={}, autoreload=None):$/;"	kind:member	line:59
+__init__	../pro/1001/web/browser.py	/^    def __init__(self):$/;"	kind:member	line:52
+__init__	../pro/1001/web/browser.py	/^    def __init__(self, app):$/;"	kind:member	line:227
+__init__	../pro/1001/web/browser.py	/^    def __init__(self, app):$/;"	kind:member	line:238
+__init__	../pro/1001/web/contrib/template.py	/^    def __init__(self, *a, **kwargs):$/;"	kind:member	line:106
+__init__	../pro/1001/web/contrib/template.py	/^    def __init__(self, *a, **kwargs):$/;"	kind:member	line:49
+__init__	../pro/1001/web/contrib/template.py	/^    def __init__(self, *a, **kwargs):$/;"	kind:member	line:84
+__init__	../pro/1001/web/contrib/template.py	/^    def __init__(self, path):$/;"	kind:member	line:19
+__init__	../pro/1001/web/contrib/template.py	/^    def __init__(self, render):$/;"	kind:member	line:124
+__init__	../pro/1001/web/db.py	/^    def __init__(self, **keywords): $/;"	kind:member	line:1141
+__init__	../pro/1001/web/db.py	/^    def __init__(self, **keywords):$/;"	kind:member	line:1002
+__init__	../pro/1001/web/db.py	/^    def __init__(self, **keywords):$/;"	kind:member	line:1038
+__init__	../pro/1001/web/db.py	/^    def __init__(self, **keywords):$/;"	kind:member	line:1066
+__init__	../pro/1001/web/db.py	/^    def __init__(self, **keywords):$/;"	kind:member	line:1098
+__init__	../pro/1001/web/db.py	/^    def __init__(self, **keywords):$/;"	kind:member	line:947
+__init__	../pro/1001/web/db.py	/^    def __init__(self, ctx):$/;"	kind:member	line:421
+__init__	../pro/1001/web/db.py	/^    def __init__(self, db_module, keywords):$/;"	kind:member	line:489
+__init__	../pro/1001/web/db.py	/^    def __init__(self, items=None):$/;"	kind:member	line:116
+__init__	../pro/1001/web/db.py	/^    def __init__(self, text, pos):$/;"	kind:member	line:43
+__init__	../pro/1001/web/db.py	/^    def __init__(self, v): $/;"	kind:member	line:270
+__init__	../pro/1001/web/db.py	/^    def __init__(self, value):$/;"	kind:member	line:75
+__init__	../pro/1001/web/form.py	/^    def __init__(self, *inputs, **kw):$/;"	kind:member	line:35
+__init__	../pro/1001/web/form.py	/^    def __init__(self, msg, test, jstest=None): utils.autoassign(self, locals())$/;"	kind:member	line:404
+__init__	../pro/1001/web/form.py	/^    def __init__(self, name, *validators, **attrs):$/;"	kind:member	line:125
+__init__	../pro/1001/web/form.py	/^    def __init__(self, name, *validators, **attrs):$/;"	kind:member	line:337
+__init__	../pro/1001/web/form.py	/^    def __init__(self, name, *validators, **attrs):$/;"	kind:member	line:369
+__init__	../pro/1001/web/form.py	/^    def __init__(self, name, args, *validators, **attrs):$/;"	kind:member	line:239
+__init__	../pro/1001/web/form.py	/^    def __init__(self, name, args, *validators, **attrs):$/;"	kind:member	line:283
+__init__	../pro/1001/web/form.py	/^    def __init__(self, name, args, *validators, **attrs):$/;"	kind:member	line:303
+__init__	../pro/1001/web/form.py	/^    def __init__(self, rexp, msg):$/;"	kind:member	line:412
+__init__	../pro/1001/web/httpserver.py	/^        def __init__(self, func, server_address):$/;"	kind:member	line:144
+__init__	../pro/1001/web/httpserver.py	/^    def __init__(self, app):$/;"	kind:member	line:305
+__init__	../pro/1001/web/httpserver.py	/^    def __init__(self, app, prefix='\/static\/'):$/;"	kind:member	line:283
+__init__	../pro/1001/web/httpserver.py	/^    def __init__(self, environ, start_response):$/;"	kind:member	line:227
+__init__	../pro/1001/web/session.py	/^    def __init__(self, app, store, initializer=None):$/;"	kind:member	line:50
+__init__	../pro/1001/web/session.py	/^    def __init__(self, db, table_name):$/;"	kind:member	line:288
+__init__	../pro/1001/web/session.py	/^    def __init__(self, message):$/;"	kind:member	line:39
+__init__	../pro/1001/web/session.py	/^    def __init__(self, root):$/;"	kind:member	line:229
+__init__	../pro/1001/web/session.py	/^    def __init__(self, shelf):$/;"	kind:member	line:330
+__init__	../pro/1001/web/template.py	/^            def __init__(self, items):$/;"	kind:member	line:336
+__init__	../pro/1001/web/template.py	/^    def __init__(self):$/;"	kind:member	line:765
+__init__	../pro/1001/web/template.py	/^    def __init__(self):$/;"	kind:member	line:81
+__init__	../pro/1001/web/template.py	/^    def __init__(self, *a, **kw):$/;"	kind:member	line:1245
+__init__	../pro/1001/web/template.py	/^    def __init__(self, *a, **kw):$/;"	kind:member	line:678
+__init__	../pro/1001/web/template.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:1157
+__init__	../pro/1001/web/template.py	/^    def __init__(self, code):$/;"	kind:member	line:593
+__init__	../pro/1001/web/template.py	/^    def __init__(self, code, filename, filter, globals, builtins):$/;"	kind:member	line:813
+__init__	../pro/1001/web/template.py	/^    def __init__(self, defwith, suite):$/;"	kind:member	line:540
+__init__	../pro/1001/web/template.py	/^    def __init__(self, f, filename):$/;"	kind:member	line:953
+__init__	../pro/1001/web/template.py	/^    def __init__(self, forloop, parent):$/;"	kind:member	line:787
+__init__	../pro/1001/web/template.py	/^    def __init__(self, loc, *a, **kw):$/;"	kind:member	line:1045
+__init__	../pro/1001/web/template.py	/^    def __init__(self, loc='templates', cache=None, base=None, **keywords):$/;"	kind:member	line:974
+__init__	../pro/1001/web/template.py	/^    def __init__(self, name, value):$/;"	kind:member	line:695
+__init__	../pro/1001/web/template.py	/^    def __init__(self, nodes):$/;"	kind:member	line:603
+__init__	../pro/1001/web/template.py	/^    def __init__(self, sections):$/;"	kind:member	line:707
+__init__	../pro/1001/web/template.py	/^    def __init__(self, stmt):$/;"	kind:member	line:659
+__init__	../pro/1001/web/template.py	/^    def __init__(self, stmt, block, begin_indent=''):$/;"	kind:member	line:619
+__init__	../pro/1001/web/template.py	/^    def __init__(self, stmt, block, begin_indent=''):$/;"	kind:member	line:633
+__init__	../pro/1001/web/template.py	/^    def __init__(self, stmt, block, begin_indent=''):$/;"	kind:member	line:646
+__init__	../pro/1001/web/template.py	/^    def __init__(self, text):$/;"	kind:member	line:489
+__init__	../pro/1001/web/template.py	/^    def __init__(self, text, filename='<template>', filter=None, globals=None, builtins=None, extensions=None):$/;"	kind:member	line:866
+__init__	../pro/1001/web/template.py	/^    def __init__(self, value):$/;"	kind:member	line:563
+__init__	../pro/1001/web/template.py	/^    def __init__(self, value, escape=True):$/;"	kind:member	line:573
+__init__	../pro/1001/web/utils.py	/^                def __init__(self):$/;"	kind:member	line:384
+__init__	../pro/1001/web/utils.py	/^    def __init__(self): $/;"	kind:member	line:494
+__init__	../pro/1001/web/utils.py	/^    def __init__(self):$/;"	kind:member	line:1198
+__init__	../pro/1001/web/utils.py	/^    def __init__(self, from_address, to_address, subject, message, headers=None, **kw):$/;"	kind:member	line:1382
+__init__	../pro/1001/web/utils.py	/^    def __init__(self, func): $/;"	kind:member	line:1067
+__init__	../pro/1001/web/utils.py	/^    def __init__(self, func): $/;"	kind:member	line:1092
+__init__	../pro/1001/web/utils.py	/^    def __init__(self, func, expires=None, background=True): $/;"	kind:member	line:459
+__init__	../pro/1001/web/utils.py	/^    def __init__(self, iterator): $/;"	kind:member	line:649
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self):$/;"	kind:member	line:123
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, cls=None):$/;"	kind:member	line:187
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, data=data, headers={}):$/;"	kind:function	line:68
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:138
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:148
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:158
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:168
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:205
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:215
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:225
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:235
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:245
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:255
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, message=None):$/;"	kind:member	line:276
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, status, headers={}, data=""):$/;"	kind:member	line:55
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, url, absolute=False):$/;"	kind:member	line:109
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, url, absolute=False):$/;"	kind:member	line:116
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, url, absolute=False):$/;"	kind:member	line:130
+__init__	../pro/1001/web/webapi.py	/^    def __init__(self, url, status='301 Moved Permanently', absolute=False):$/;"	kind:member	line:84
+__init__	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    def __init__(self, certificate, private_key, certificate_chain=None):$/;"	kind:member	line:45
+__init__	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def __init__(self, *args):$/;"	kind:member	line:119
+__init__	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def __init__(self, certificate, private_key, certificate_chain=None):$/;"	kind:member	line:167
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:1008
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, apps):$/;"	kind:member	line:2443
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, bind_addr, gateway, minthreads=10, maxthreads=-1,$/;"	kind:member	line:1796
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, bind_addr, wsgi_app, numthreads=10, server_name=None,$/;"	kind:member	line:2212
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, certificate, private_key, certificate_chain=None):$/;"	kind:member	line:1717
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, req):$/;"	kind:member	line:2161
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, req):$/;"	kind:member	line:2243
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, rfile, content_length):$/;"	kind:member	line:351
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, rfile, maxlen):$/;"	kind:member	line:281
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, rfile, maxlen, bufsize=8192):$/;"	kind:member	line:413
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, server):$/;"	kind:member	line:1482
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, server, conn):$/;"	kind:member	line:591
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, server, min=10, max=-1,$/;"	kind:member	line:1555
+__init__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __init__(self, server, sock, makefile=CP_fileobject):$/;"	kind:member	line:1331
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, apps):$/;"	kind:member	line:2172
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, bind_addr, gateway, minthreads=10, maxthreads=-1,$/;"	kind:member	line:1522
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, bind_addr, wsgi_app, numthreads=10, server_name=None,$/;"	kind:member	line:1937
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, certificate, private_key, certificate_chain=None):$/;"	kind:member	line:1442
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, req):$/;"	kind:member	line:1886
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, req):$/;"	kind:member	line:1968
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, rfile, content_length):$/;"	kind:member	line:337
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, rfile, maxlen):$/;"	kind:member	line:267
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, rfile, maxlen, bufsize=8192):$/;"	kind:member	line:399
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, server):$/;"	kind:member	line:1212
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, server, conn):$/;"	kind:member	line:577
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, server, min=10, max=-1,$/;"	kind:member	line:1285
+__init__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __init__(self, server, sock, makefile=CP_makefile):$/;"	kind:member	line:1060
+__init__.py	../pro/1001/web/__init__.py	1;"	kind:file	line:1
+__init__.py	../pro/1001/web/contrib/__init__.py	1;"	kind:file	line:1
+__init__.py	../pro/1001/web/wsgiserver/__init__.py	1;"	kind:file	line:1
+__iter__	../pro/1001/web/httpserver.py	/^    def __iter__(self):$/;"	kind:member	line:244
+__iter__	../pro/1001/web/template.py	/^    def __iter__(self):$/;"	kind:member	line:1317
+__iter__	../pro/1001/web/utils.py	/^    def __iter__(self): $/;"	kind:member	line:664
+__iter__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __iter__(self):$/;"	kind:member	line:331
+__iter__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __iter__(self):$/;"	kind:member	line:395
+__iter__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __iter__(self):$/;"	kind:member	line:545
+__iter__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __iter__(self):$/;"	kind:member	line:317
+__iter__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __iter__(self):$/;"	kind:member	line:381
+__iter__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __iter__(self):$/;"	kind:member	line:531
+__len__	../pro/1001/web/db.py	/^    def __len__(self):$/;"	kind:member	line:174
+__len__	../pro/1001/web/template.py	/^    def __len__(self):$/;"	kind:member	line:1314
+__license__	../pro/1001/web/__init__.py	/^__license__ = "public domain"$/;"	kind:variable	line:11
+__next__	../pro/1001/web/template.py	/^            def __next__(self):$/;"	kind:member	line:358
+__next__	../pro/1001/web/template.py	/^    def __next__(self):$/;"	kind:member	line:531
+__next__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __next__(self):$/;"	kind:member	line:334
+__next__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __next__(self):$/;"	kind:member	line:398
+__next__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __next__(self):$/;"	kind:member	line:320
+__next__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __next__(self):$/;"	kind:member	line:384
+__nonzero__	../pro/1001/web/utils.py	/^    def __nonzero__(self):$/;"	kind:member	line:686
+__radd__	../pro/1001/web/db.py	/^    def __radd__(self, other):$/;"	kind:member	line:157
+__radd__	../pro/1001/web/db.py	/^    def __radd__(self, other):$/;"	kind:member	line:93
+__radd__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __radd__(self, other):$/;"	kind:member	line:1453
+__radd__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __radd__(self, other):$/;"	kind:member	line:1183
+__repr__	../pro/1001/web/db.py	/^    def __repr__(self): $/;"	kind:member	line:273
+__repr__	../pro/1001/web/db.py	/^    def __repr__(self):$/;"	kind:member	line:258
+__repr__	../pro/1001/web/db.py	/^    def __repr__(self):$/;"	kind:member	line:99
+__repr__	../pro/1001/web/form.py	/^    def __repr__(self):$/;"	kind:member	line:195
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:1310
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:559
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:569
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:585
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:599
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:613
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:629
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:642
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:655
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:665
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:702
+__repr__	../pro/1001/web/template.py	/^    def __repr__(self):$/;"	kind:member	line:713
+__repr__	../pro/1001/web/utils.py	/^    def __repr__(self):     $/;"	kind:member	line:83
+__repr__	../pro/1001/web/utils.py	/^    def __repr__(self):$/;"	kind:member	line:1272
+__repr__	../pro/1001/web/utils.py	/^    def __repr__(self):$/;"	kind:member	line:1510
+__repr__	../pro/1001/web/utils.py	/^    def __repr__(self):$/;"	kind:member	line:248
+__setattr__	../pro/1001/web/session.py	/^    def __setattr__(self, name, value):$/;"	kind:member	line:70
+__setattr__	../pro/1001/web/template.py	/^    def __setattr__(self, key, value): $/;"	kind:member	line:1290
+__setattr__	../pro/1001/web/utils.py	/^    def __setattr__(self, key, value): $/;"	kind:member	line:74
+__setitem__	../pro/1001/web/browser.py	/^    def __setitem__(self, key, value):$/;"	kind:member	line:209
+__setitem__	../pro/1001/web/session.py	/^    def __setitem__(self, key, value):$/;"	kind:member	line:195
+__setitem__	../pro/1001/web/session.py	/^    def __setitem__(self, key, value):$/;"	kind:member	line:255
+__setitem__	../pro/1001/web/session.py	/^    def __setitem__(self, key, value):$/;"	kind:member	line:306
+__setitem__	../pro/1001/web/session.py	/^    def __setitem__(self, key, value):$/;"	kind:member	line:341
+__setitem__	../pro/1001/web/template.py	/^    def __setitem__(self, name, value):$/;"	kind:member	line:1274
+__setitem__	../pro/1001/web/utils.py	/^    def __setitem__(self, key, value):$/;"	kind:member	line:1220
+__slots__	../pro/1001/web/db.py	/^    __slots__ = ["items"]$/;"	kind:variable	line:113
+__slots__	../pro/1001/web/db.py	/^    __slots__ = ["value"]$/;"	kind:variable	line:73
+__slots__	../pro/1001/web/session.py	/^    __slots__ = [$/;"	kind:variable	line:45
+__str__	../pro/1001/web/db.py	/^    def __str__(self): $/;"	kind:member	line:96
+__str__	../pro/1001/web/db.py	/^    def __str__(self):$/;"	kind:member	line:252
+__str__	../pro/1001/web/db.py	/^    def __str__(self):$/;"	kind:member	line:47
+__str__	../pro/1001/web/form.py	/^    def __str__(self):$/;"	kind:member	line:192
+__str__	../pro/1001/web/template.py	/^    def __str__(self):$/;"	kind:member	line:1303
+__str__	../pro/1001/web/utils.py	/^    __str__ = __repr__$/;"	kind:variable	line:1275
+__str__	../pro/1001/web/utils.py	/^    def __str__(self):$/;"	kind:member	line:1513
+__str__	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def __str__(self):$/;"	kind:member	line:1846
+__str__	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def __str__(self):$/;"	kind:member	line:1572
+__unicode__	../pro/1001/web/db.py	/^    def __unicode__(self):$/;"	kind:member	line:255
+__unicode__	../pro/1001/web/template.py	/^    def __unicode__(self):$/;"	kind:member	line:1299
+__version__	../pro/1001/web/__init__.py	/^__version__ = "0.40-dev0"$/;"	kind:variable	line:6
+_add_global	../pro/1001/web/template.py	/^    def _add_global(self, obj, name=None):$/;"	kind:member	line:992
+_all	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    _all = staticmethod(_all)$/;"	kind:variable	line:1610
+_all	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _all(func, items):$/;"	kind:member	line:1607
+_bind_addr	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    _bind_addr = "127.0.0.1"$/;"	kind:variable	line:1733
+_bind_addr	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    _bind_addr = "127.0.0.1"$/;"	kind:variable	line:1458
+_check_expiry	../pro/1001/web/session.py	/^    def _check_expiry(self):$/;"	kind:member	line:119
+_check_length	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _check_length(self):$/;"	kind:member	line:286
+_check_length	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _check_length(self):$/;"	kind:member	line:272
+_cleanup	../pro/1001/web/application.py	/^    def _cleanup(self):$/;"	kind:member	line:124
+_cleanup	../pro/1001/web/session.py	/^    def _cleanup(self):$/;"	kind:member	line:167
+_compile	../pro/1001/web/template.py	/^    def _compile(self, *a):$/;"	kind:member	line:960
+_compile	../pro/1001/web/template.py	/^    def _compile(self, code):$/;"	kind:member	line:823
+_connect	../pro/1001/web/db.py	/^    def _connect(self, keywords):$/;"	kind:member	line:554
+_connect	../pro/1001/web/db.py	/^    def _connect(self, keywords):$/;"	kind:member	line:987
+_connect_with_pooling	../pro/1001/web/db.py	/^    def _connect_with_pooling(self, keywords):$/;"	kind:member	line:557
+_connect_with_pooling	../pro/1001/web/db.py	/^    def _connect_with_pooling(self, keywords):$/;"	kind:member	line:996
+_databases	../pro/1001/web/db.py	/^_databases = {}$/;"	kind:variable	line:1187
+_db_cursor	../pro/1001/web/db.py	/^    def _db_cursor(self):$/;"	kind:member	line:574
+_db_execute	../pro/1001/web/db.py	/^    def _db_execute(self, cur, sql_query): $/;"	kind:member	line:589
+_debugwrite	../pro/1001/web/webapi.py	/^def _debugwrite(x):$/;"	kind:function	line:507
+_delegate	../pro/1001/web/application.py	/^    def _delegate(self, f, fvars, args=[]):$/;"	kind:member	line:458
+_delegate_sub_application	../pro/1001/web/application.py	/^    def _delegate_sub_application(self, dir, app):$/;"	kind:member	line:511
+_escape	../pro/1001/web/template.py	/^    def _escape(self, value, escape=False):$/;"	kind:member	line:844
+_fetch	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _fetch(self):$/;"	kind:member	line:421
+_fetch	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _fetch(self):$/;"	kind:member	line:407
+_fileobject_uses_str_type	../pro/1001/web/wsgiserver/wsgiserver2.py	/^_fileobject_uses_str_type = isinstance($/;"	kind:variable	line:134
+_filter_links	../pro/1001/web/browser.py	/^    def _filter_links(self, links, $/;"	kind:member	line:151
+_findfile	../pro/1001/web/template.py	/^    def _findfile(self, path_prefix): $/;"	kind:member	line:1020
+_flush_unlocked	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _flush_unlocked(self):$/;"	kind:member	line:1025
+_generate_session_id	../pro/1001/web/session.py	/^    def _generate_session_id(self):$/;"	kind:member	line:148
+_get_all_sequences	../pro/1001/web/db.py	/^    def _get_all_sequences(self):$/;"	kind:member	line:980
+_get_bind_addr	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _get_bind_addr(self):$/;"	kind:member	line:1850
+_get_bind_addr	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _get_bind_addr(self):$/;"	kind:member	line:1576
+_get_d	../pro/1001/web/form.py	/^    def _get_d(self): #@@ should really be form.attr, no?$/;"	kind:member	line:120
+_get_idle	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _get_idle(self):$/;"	kind:member	line:1576
+_get_idle	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _get_idle(self):$/;"	kind:member	line:1306
+_get_insert_default_values_query	../pro/1001/web/db.py	/^    def _get_insert_default_values_query(self, table):$/;"	kind:member	line:1021
+_get_insert_default_values_query	../pro/1001/web/db.py	/^    def _get_insert_default_values_query(self, table):$/;"	kind:member	line:811
+_get_interrupt	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _get_interrupt(self):$/;"	kind:member	line:2098
+_get_interrupt	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _get_interrupt(self):$/;"	kind:member	line:1823
+_get_lines_from_file	../pro/1001/web/debugerror.py	/^    def _get_lines_from_file(filename, lineno, context_lines):$/;"	kind:function	line:240
+_get_links	../pro/1001/web/browser.py	/^    def _get_links(self):$/;"	kind:member	line:126
+_get_numthreads	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _get_numthreads(self):$/;"	kind:member	line:2231
+_get_numthreads	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _get_numthreads(self):$/;"	kind:member	line:1956
+_get_path	../pro/1001/web/session.py	/^    def _get_path(self, key):$/;"	kind:member	line:237
+_get_qsize	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _get_qsize(self):$/;"	kind:member	line:1671
+_get_qsize	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _get_qsize(self):$/;"	kind:member	line:1396
+_getctx	../pro/1001/web/db.py	/^    def _getctx(self): $/;"	kind:member	line:514
+_hack	../pro/1001/web/utils.py	/^class _hack(tuple): pass$/;"	kind:class	line:254
+_hmac	../pro/1001/web/webopenid.py	/^def _hmac(identity_url):$/;"	kind:function	line:41
+_instances	../pro/1001/web/utils.py	/^    _instances = set()$/;"	kind:variable	line:1196
+_interpolate	../pro/1001/web/db.py	/^def _interpolate(format): $/;"	kind:function	line:1224
+_interrupt	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    _interrupt = None$/;"	kind:variable	line:1734
+_interrupt	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    _interrupt = None$/;"	kind:variable	line:1459
+_is_dev_mode	../pro/1001/web/wsgi.py	/^def _is_dev_mode():$/;"	kind:function	line:61
+_join	../pro/1001/web/template.py	/^    def _join(self, *items):$/;"	kind:member	line:841
+_load	../pro/1001/web/application.py	/^    def _load(self):$/;"	kind:member	line:109
+_load	../pro/1001/web/session.py	/^    def _load(self):$/;"	kind:member	line:90
+_load_context	../pro/1001/web/db.py	/^    def _load_context(self, ctx):$/;"	kind:member	line:520
+_load_template	../pro/1001/web/template.py	/^    def _load_template(self, name):$/;"	kind:member	line:1010
+_load_template	../pro/1001/web/template.py	/^    def _load_template(self, name):$/;"	kind:member	line:1059
+_lookup	../pro/1001/web/template.py	/^    def _lookup(self, name):$/;"	kind:member	line:999
+_make_response	../pro/1001/web/browser.py	/^    def _make_response(self, result, url):$/;"	kind:member	line:261
+_match	../pro/1001/web/application.py	/^    def _match(self, mapping, value):$/;"	kind:member	line:494
+_match	../pro/1001/web/application.py	/^    def _match(self, mapping, value):$/;"	kind:member	line:621
+_next	../pro/1001/web/template.py	/^            def _next(self):$/;"	kind:member	line:347
+_param_marker	../pro/1001/web/db.py	/^    def _param_marker(self):$/;"	kind:member	line:577
+_pop	../pro/1001/web/template.py	/^    def _pop(self):$/;"	kind:member	line:781
+_prepare_body	../pro/1001/web/template.py	/^    def _prepare_body(self):$/;"	kind:member	line:1257
+_process_insert_query	../pro/1001/web/db.py	/^    def _process_insert_query(self, query, tablename, seqname): $/;"	kind:member	line:1156
+_process_insert_query	../pro/1001/web/db.py	/^    def _process_insert_query(self, query, tablename, seqname):$/;"	kind:member	line:1018
+_process_insert_query	../pro/1001/web/db.py	/^    def _process_insert_query(self, query, tablename, seqname):$/;"	kind:member	line:1054
+_process_insert_query	../pro/1001/web/db.py	/^    def _process_insert_query(self, query, tablename, seqname):$/;"	kind:member	line:938
+_process_insert_query	../pro/1001/web/db.py	/^    def _process_insert_query(self, query, tablename, seqname):$/;"	kind:member	line:968
+_process_query	../pro/1001/web/db.py	/^    def _process_query(self, sql_query):$/;"	kind:member	line:1106
+_process_query	../pro/1001/web/db.py	/^    def _process_query(self, sql_query):$/;"	kind:member	line:611
+_processor	../pro/1001/web/session.py	/^    def _processor(self, handler):$/;"	kind:member	line:79
+_push	../pro/1001/web/template.py	/^    def _push(self):$/;"	kind:member	line:778
+_random_session	../pro/1001/web/webopenid.py	/^def _random_session():$/;"	kind:function	line:44
+_re_subm_proxy	../pro/1001/web/utils.py	/^class _re_subm_proxy:$/;"	kind:class	line:493
+_render_option	../pro/1001/web/form.py	/^    def _render_option(self, arg, indent='  '):$/;"	kind:member	line:255
+_reuse	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _reuse(self):$/;"	kind:member	line:131
+_safe_call	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def _safe_call(self, is_reader, call, *args, **kwargs):$/;"	kind:member	line:53
+_save	../pro/1001/web/session.py	/^    def _save(self):$/;"	kind:member	line:133
+_secret	../pro/1001/web/webopenid.py	/^def _secret():$/;"	kind:function	line:32
+_set_bind_addr	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _set_bind_addr(self, value):$/;"	kind:member	line:1853
+_set_bind_addr	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _set_bind_addr(self, value):$/;"	kind:member	line:1579
+_set_interrupt	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _set_interrupt(self, interrupt):$/;"	kind:member	line:2101
+_set_interrupt	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _set_interrupt(self, interrupt):$/;"	kind:member	line:1826
+_set_numthreads	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _set_numthreads(self, value):$/;"	kind:member	line:2234
+_set_numthreads	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _set_numthreads(self, value):$/;"	kind:member	line:1959
+_setcookie	../pro/1001/web/session.py	/^    def _setcookie(self, session_id, expires='', **kw):$/;"	kind:member	line:140
+_spawn_worker	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def _spawn_worker(self):$/;"	kind:member	line:1601
+_spawn_worker	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def _spawn_worker(self):$/;"	kind:member	line:1331
+_sqllist	../pro/1001/web/db.py	/^def _sqllist(values):$/;"	kind:function	line:278
+_status_code	../pro/1001/web/webapi.py	/^def _status_code(status, data=None, classname=None, docstring=None):$/;"	kind:function	line:62
+_str	../pro/1001/web/db.py	/^    def _str(self):$/;"	kind:member	line:246
+_strips	../pro/1001/web/utils.py	/^def _strips(direction, text, remove):$/;"	kind:function	line:261
+_template	../pro/1001/web/template.py	/^    def _template(self, name):$/;"	kind:member	line:1025
+_test	../pro/1001/web/db.py	/^    def _test(self):$/;"	kind:member	line:1126
+_unload	../pro/1001/web/application.py	/^    def _unload(self):$/;"	kind:member	line:112
+_unload_context	../pro/1001/web/db.py	/^    def _unload_context(self, ctx):$/;"	kind:member	line:551
+_valid_session_id	../pro/1001/web/session.py	/^    def _valid_session_id(self, session_id):$/;"	kind:member	line:163
+_validate	../pro/1001/web/form.py	/^    def _validate(self, value):$/;"	kind:member	line:91
+_validate_ip	../pro/1001/web/session.py	/^    def _validate_ip(self):$/;"	kind:member	line:127
+_where	../pro/1001/web/db.py	/^    def _where(self, where, vars): $/;"	kind:member	line:619
+_where_dict	../pro/1001/web/db.py	/^    def _where_dict(self, where):$/;"	kind:member	line:633
+add	../pro/1001/web/utils.py	/^    def add(self, n):$/;"	kind:member	line:183
+add_mapping	../pro/1001/web/application.py	/^    def add_mapping(self, pattern, classname):$/;"	kind:member	line:132
+add_processor	../pro/1001/web/application.py	/^    def add_processor(self, processor):$/;"	kind:member	line:135
+addatts	../pro/1001/web/form.py	/^    def addatts(self):$/;"	kind:member	line:178
+addinfourl	../pro/1001/web/browser.py	/^    from urllib import addinfourl$/;"	kind:namespace	line:34
+addinfourl	../pro/1001/web/browser.py	/^    from urllib.response import addinfourl$/;"	kind:namespace	line:31
+age	../sample/c2.py	/^age = 1$/;"	kind:variable	line:44
+age	../sample/c3.py	/^age = 20$/;"	kind:variable	line:70
+agohence	../pro/1001/web/utils.py	/^    def agohence(n, what, divisor=None):$/;"	kind:function	line:884
+already	../pro/1001/web/utils.py	/^        import cProfile, pstats, os, tempfile ##, time already imported$/;"	kind:namespace	line:1095
+and	../pro/1001/web/application.py	/^        from imp import reload #Since Py 3.0 and before 3.4 reload is in imp$/;"	kind:namespace	line:33
+app	../pro/1001/webapp.py	/^app = web.application(urls, globals())$/;"	kind:variable	line:28
+append	../pro/1001/web/db.py	/^    def append(self, value):$/;"	kind:member	line:145
+appengine	../pro/1001/web/template.py	/^    from google import appengine$/;"	kind:namespace	line:1070
+application	../pro/1001/web/application.py	/^class application:$/;"	kind:class	line:47
+application	../pro/1001/web/debugerror.py	/^    from .application import application$/;"	kind:namespace	line:354
+application.py	../pro/1001/web/application.py	1;"	kind:file	line:1
+ast	../pro/1001/web/template.py	/^import ast$/;"	kind:namespace	line:45
+attach	../pro/1001/web/utils.py	/^    def attach(self, filename, content, content_type=None):$/;"	kind:member	line:1422
+attr_access	../pro/1001/web/template.py	/^        def attr_access():$/;"	kind:function	line:290
+attrget	../pro/1001/web/form.py	/^def attrget(obj, attr, value=None):$/;"	kind:function	line:9
+auto_application	../pro/1001/web/application.py	/^class auto_application(application):$/;"	kind:class	line:558
+autoassign	../pro/1001/web/utils.py	/^def autoassign(self, locals):$/;"	kind:function	line:1279
+autodelegate	../pro/1001/web/application.py	/^def autodelegate(prefix=''):$/;"	kind:function	line:686
+b	../sample/c2.py	/^b = False$/;"	kind:variable	line:31
+badrequest	../pro/1001/web/webapi.py	/^badrequest = BadRequest$/;"	kind:variable	line:143
+bars	../pro/1001/web/utils.py	/^   def bars(size, n, lenx):$/;"	kind:function	line:571
+base64	../pro/1001/web/session.py	/^import os, time, datetime, random, base64$/;"	kind:namespace	line:6
+basestring	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    basestring = (bytes, str)$/;"	kind:variable	line:141
+basestring	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    basestring = basestring$/;"	kind:variable	line:151
+basestring	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    basestring = (bytes, str)$/;"	kind:variable	line:127
+basestring	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    basestring = basestring$/;"	kind:variable	line:137
+before	../pro/1001/web/application.py	/^        from imp import reload #Since Py 3.0 and before 3.4 reload is in imp$/;"	kind:namespace	line:33
+bind	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    def bind(self, sock):$/;"	kind:member	line:58
+bind	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def bind(self, sock):$/;"	kind:member	line:177
+bind	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def bind(self, family, type, proto=0):$/;"	kind:member	line:1979
+bind	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def bind(self, family, type, proto=0):$/;"	kind:member	line:1704
+bind_addr	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    bind_addr = property($/;"	kind:variable	line:1869
+bind_addr	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    bind_addr = property($/;"	kind:variable	line:1595
+bmi	../sample/c3.py	/^bmi = w\/(h*h)$/;"	kind:variable	line:104
+boto	../pro/1001/web/utils.py	/^            import boto.ses$/;"	kind:namespace	line:1491
+browser	../pro/1001/web/application.py	/^    def browser(self):$/;"	kind:member	line:243
+browser	../pro/1001/web/application.py	/^from . import webapi, wsgi, utils, browser$/;"	kind:namespace	line:8
+browser.py	../pro/1001/web/browser.py	1;"	kind:file	line:1
+build_opener	../pro/1001/web/browser.py	/^    def build_opener(self):$/;"	kind:member	line:231
+build_opener	../pro/1001/web/browser.py	/^    def build_opener(self):$/;"	kind:member	line:69
+build_opener	../pro/1001/web/browser.py	/^    from urllib.request import HTTPHandler, HTTPCookieProcessor, build_opener, Request, HTTPError$/;"	kind:namespace	line:27
+build_result	../pro/1001/web/application.py	/^            def build_result(result):$/;"	kind:function	line:303
+builtins	../pro/1001/web/template.py	/^    import __builtin__ as builtins$/;"	kind:namespace	line:744
+builtins	../pro/1001/web/template.py	/^    import builtins$/;"	kind:namespace	line:746
+c1.py	../sample/c1.py	1;"	kind:file	line:1
+c2.py	../sample/c2.py	1;"	kind:file	line:1
+c3.py	../sample/c3.py	1;"	kind:file	line:1
+c4.py	../sample/c4.py	1;"	kind:file	line:1
+cProfile	../pro/1001/web/utils.py	/^        import cProfile, pstats, os, tempfile ##, time already imported$/;"	kind:namespace	line:1095
+cache	../pro/1001/web/contrib/template.py	/^class cache:$/;"	kind:class	line:116
+capturestdout	../pro/1001/web/utils.py	/^capturestdout = CaptureStdout$/;"	kind:variable	line:1079
+certificate	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    certificate = None$/;"	kind:variable	line:31
+certificate	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    certificate = None$/;"	kind:variable	line:155
+certificate_chain	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    certificate_chain = None$/;"	kind:variable	line:37
+certificate_chain	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    certificate_chain = None$/;"	kind:variable	line:161
+cgi	../pro/1001/web/webapi.py	/^import sys, cgi, pprint, urllib$/;"	kind:namespace	line:32
+cgirun	../pro/1001/web/application.py	/^    def cgirun(self, *middleware):$/;"	kind:member	line:350
+changequery	../pro/1001/web/http.py	/^def changequery(query=None, **kw):$/;"	kind:function	line:112
+check	../pro/1001/web/application.py	/^    def check(self, mod):$/;"	kind:member	line:740
+check_assign_target	../pro/1001/web/template.py	/^    def check_assign_target(self, targetnode):$/;"	kind:member	line:1192
+check_assign_targets	../pro/1001/web/template.py	/^    def check_assign_targets(self, node):$/;"	kind:member	line:1187
+check_output	../pro/1001/web/test.py	/^    def check_output(self, want, got, optionflags):$/;"	kind:member	line:28
+chunked_write	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    chunked_write = False$/;"	kind:variable	line:586
+chunked_write	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    chunked_write = False$/;"	kind:variable	line:572
+classstu	../sample/c3.py	/^classstu = ["zhang", "Li", "Xiao"]$/;"	kind:variable	line:14
+cleanup	../pro/1001/web/application.py	/^            def cleanup():$/;"	kind:function	line:320
+cleanup	../pro/1001/web/session.py	/^    def cleanup(self, timeout):$/;"	kind:member	line:198
+cleanup	../pro/1001/web/session.py	/^    def cleanup(self, timeout):$/;"	kind:member	line:272
+cleanup	../pro/1001/web/session.py	/^    def cleanup(self, timeout):$/;"	kind:member	line:317
+cleanup	../pro/1001/web/session.py	/^    def cleanup(self, timeout):$/;"	kind:member	line:350
+clear	../pro/1001/web/utils.py	/^    def clear(self):$/;"	kind:member	line:1231
+clear_all	../pro/1001/web/utils.py	/^    clear_all = staticmethod(clear_all)$/;"	kind:variable	line:1212
+clear_all	../pro/1001/web/utils.py	/^    def clear_all():$/;"	kind:member	line:1207
+clear_stats	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def clear_stats(self):$/;"	kind:member	line:1808
+clear_stats	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def clear_stats(self):$/;"	kind:member	line:1534
+close	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def close(self):$/;"	kind:member	line:1421
+close	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def close(self):$/;"	kind:member	line:328
+close	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def close(self):$/;"	kind:member	line:392
+close	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def close(self):$/;"	kind:member	line:542
+close	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def close(self):$/;"	kind:member	line:1150
+close	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def close(self):$/;"	kind:member	line:314
+close	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def close(self):$/;"	kind:member	line:378
+close	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def close(self):$/;"	kind:member	line:528
+close_connection	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    close_connection = False$/;"	kind:variable	line:581
+close_connection	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    close_connection = False$/;"	kind:variable	line:567
+comma_separated_headers	../pro/1001/web/wsgiserver/wsgiserver2.py	/^comma_separated_headers = [$/;"	kind:variable	line:209
+comma_separated_headers	../pro/1001/web/wsgiserver/wsgiserver3.py	/^comma_separated_headers = [$/;"	kind:variable	line:195
+commify	../pro/1001/web/utils.py	/^def commify(n):$/;"	kind:function	line:971
+commit	../pro/1001/web/db.py	/^        def commit(unload=True):$/;"	kind:function	line:536
+commit	../pro/1001/web/db.py	/^    def commit(self):$/;"	kind:member	line:477
+communicate	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def communicate(self):$/;"	kind:member	line:1338
+communicate	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def communicate(self):$/;"	kind:member	line:1067
+compile_template	../pro/1001/web/template.py	/^    def compile_template(self, *a):$/;"	kind:member	line:957
+compile_template	../pro/1001/web/template.py	/^    def compile_template(self, template_string, filename):$/;"	kind:member	line:923
+compile_templates	../pro/1001/web/template.py	/^def compile_templates(root):$/;"	kind:function	line:1080
+cond	../pro/1001/web/utils.py	/^def cond(predicate, consequence, alternative=None):$/;"	kind:function	line:1041
+config	../pro/1001/web/db.py	/^    config = storage()$/;"	kind:variable	line:24
+config	../pro/1001/web/db.py	/^    from .webapi import debug, config$/;"	kind:namespace	line:20
+config	../pro/1001/web/template.py	/^from .webapi import config$/;"	kind:namespace	line:48
+config	../pro/1001/web/webapi.py	/^config = storage()$/;"	kind:variable	line:46
+conflict	../pro/1001/web/webapi.py	/^conflict = Conflict$/;"	kind:variable	line:220
+conn	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    conn = None$/;"	kind:variable	line:1471
+conn	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    conn = None$/;"	kind:variable	line:567
+conn	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    conn = None$/;"	kind:variable	line:1201
+conn	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    conn = None$/;"	kind:variable	line:553
+constants	../pro/1001/web/template.py	/^            from token import NAME # python token constants$/;"	kind:namespace	line:291
+consume_till	../pro/1001/web/template.py	/^    def consume_till(self, delim):        $/;"	kind:member	line:496
+consumer	../pro/1001/web/webopenid.py	/^import openid.consumer.consumer$/;"	kind:namespace	line:26
+context	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    context = None$/;"	kind:variable	line:43
+context	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    context = None$/;"	kind:variable	line:152
+convert	../pro/1001/web/http.py	/^    def convert(value, doseq=False):$/;"	kind:function	line:103
+cookies	../pro/1001/web/webapi.py	/^def cookies(*requireds, **defaults):$/;"	kind:function	line:470
+copy	../pro/1001/web/browser.py	/^import copy$/;"	kind:namespace	line:8
+copy	../pro/1001/web/form.py	/^    def copy(self):$/;"	kind:member	line:189
+copy	../pro/1001/web/form.py	/^import copy, re$/;"	kind:namespace	line:6
+copy	../pro/1001/web/utils.py	/^    def copy(self):$/;"	kind:member	line:1234
+counter	../pro/1001/web/utils.py	/^counter = Counter$/;"	kind:variable	line:251
+cp_version	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    cp_version = 'unknown'$/;"	kind:variable	line:124
+cp_version	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    cp_version = pkg_resources.require('cherrypy')[0].version$/;"	kind:variable	line:122
+cp_version	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    cp_version = 'unknown'$/;"	kind:variable	line:122
+cp_version	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    cp_version = pkg_resources.require('cherrypy')[0].version$/;"	kind:variable	line:120
+create_block_node	../pro/1001/web/template.py	/^    def create_block_node(self, keyword, stmt, block, begin_indent):$/;"	kind:member	line:481
+create_parser	../pro/1001/web/template.py	/^    def create_parser(self):$/;"	kind:member	line:917
+create_ssl_adapter	../pro/1001/web/httpserver.py	/^    def create_ssl_adapter(cert, key):$/;"	kind:function	line:197
+crypto	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    from OpenSSL import crypto$/;"	kind:namespace	line:41
+ctx	../pro/1001/web/db.py	/^    ctx = property(_getctx)$/;"	kind:variable	line:518
+ctypes	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        import ctypes.wintypes$/;"	kind:namespace	line:1681
+ctypes	../pro/1001/web/wsgiserver/wsgiserver3.py	/^        import ctypes.wintypes$/;"	kind:namespace	line:1406
+d	../pro/1001/web/form.py	/^    d = property(_get_d)$/;"	kind:variable	line:122
+data	../pro/1001/web/webapi.py	/^def data():$/;"	kind:function	line:371
+database	../pro/1001/web/db.py	/^def database(dburl=None, **params):$/;"	kind:function	line:1188
+dateify	../pro/1001/web/utils.py	/^def dateify(datestring):$/;"	kind:function	line:1012
+datestr	../pro/1001/web/utils.py	/^def datestr(then, now=None):$/;"	kind:function	line:855
+datetime	../pro/1001/web/db.py	/^import datetime, time, os, urllib, re$/;"	kind:namespace	line:7
+datetime	../pro/1001/web/http.py	/^import datetime$/;"	kind:namespace	line:14
+datetime	../pro/1001/web/net.py	/^import datetime$/;"	kind:namespace	line:14
+datetime	../pro/1001/web/session.py	/^import os, time, datetime, random, base64$/;"	kind:namespace	line:6
+datetime	../pro/1001/web/utils.py	/^import datetime$/;"	kind:namespace	line:38
+db	../pro/1001/web/__init__.py	/^from . import utils, db, net, wsgi, http, webapi, httpserver, debugerror$/;"	kind:namespace	line:14
+db	../pro/1001/web/db.py	/^            import kinterbasdb as db$/;"	kind:namespace	line:1068
+db	../pro/1001/web/db.py	/^        import MySQLdb as db$/;"	kind:namespace	line:1003
+db	../pro/1001/web/db.py	/^        import cx_Oracle as db $/;"	kind:namespace	line:1142
+db	../pro/1001/web/db.py	/^        import pymssql as db    $/;"	kind:namespace	line:1099
+db.py	../pro/1001/web/db.py	1;"	kind:file	line:1
+dbb	../pro/1001/webapp.py	/^dbb = web.database(dbn='mysql', host='127.0.0.1', port=3306, user='root', pw='root', db='33hao', charset="utf8")$/;"	kind:variable	line:24
+dburl2dict	../pro/1001/web/db.py	/^def dburl2dict(url):$/;"	kind:function	line:1163
+debug	../pro/1001/web/db.py	/^    debug = sys.stderr$/;"	kind:variable	line:23
+debug	../pro/1001/web/db.py	/^    from .webapi import debug, config$/;"	kind:namespace	line:20
+debug	../pro/1001/web/webapi.py	/^def debug(*args):$/;"	kind:function	line:495
+debugerror	../pro/1001/web/__init__.py	/^from . import utils, db, net, wsgi, http, webapi, httpserver, debugerror$/;"	kind:namespace	line:14
+debugerror	../pro/1001/web/application.py	/^from .debugerror import debugerror$/;"	kind:namespace	line:9
+debugerror	../pro/1001/web/debugerror.py	/^def debugerror():$/;"	kind:function	line:305
+debugerror.py	../pro/1001/web/debugerror.py	1;"	kind:file	line:1
+decode	../pro/1001/web/session.py	/^    def decode(self, session_data):$/;"	kind:member	line:207
+decode_cookie	../pro/1001/web/webapi.py	/^def decode_cookie(value):$/;"	kind:function	line:397
+decorator	../pro/1001/web/application.py	/^    def decorator(cls):$/;"	kind:function	line:550
+deepcopy	../pro/1001/web/session.py	/^from copy import deepcopy$/;"	kind:namespace	line:8
+delete	../pro/1001/web/db.py	/^    def delete(self, table, where, using=None, vars=None, _test=False): $/;"	kind:member	line:914
+delete	../pro/1001/web/db.py	/^    def delete(self, table, where=None, using=None, vars=None, _test=False):$/;"	kind:member	line:1080
+denumify	../pro/1001/web/utils.py	/^def denumify(string, pattern):$/;"	kind:function	line:953
+dictadd	../pro/1001/web/utils.py	/^def dictadd(*dicts):$/;"	kind:function	line:787
+dictadd	../pro/1001/web/webapi.py	/^from .utils import storage, storify, threadeddict, dictadd, intget, safestr$/;"	kind:namespace	line:33
+dictfind	../pro/1001/web/utils.py	/^def dictfind(dictionary, element):$/;"	kind:function	line:737
+dictfindall	../pro/1001/web/utils.py	/^def dictfindall(dictionary, element):$/;"	kind:function	line:751
+dictify	../pro/1001/web/webapi.py	/^    def dictify(fs):$/;"	kind:function	line:315
+dictincr	../pro/1001/web/utils.py	/^def dictincr(dictionary, element):$/;"	kind:function	line:768
+dictreverse	../pro/1001/web/utils.py	/^def dictreverse(mapping):$/;"	kind:function	line:728
+djangoerror	../pro/1001/web/debugerror.py	/^def djangoerror():$/;"	kind:function	line:239
+djangoerror_r	../pro/1001/web/debugerror.py	/^djangoerror_r = None$/;"	kind:variable	line:237
+do_DELETE	../pro/1001/web/httpserver.py	/^        do_DELETE = run_wsgi_app$/;"	kind:variable	line:112
+do_GET	../pro/1001/web/httpserver.py	/^        def do_GET(self):$/;"	kind:member	line:114
+do_POST	../pro/1001/web/httpserver.py	/^        do_POST = run_wsgi_app$/;"	kind:variable	line:110
+do_PUT	../pro/1001/web/httpserver.py	/^        do_PUT = run_wsgi_app$/;"	kind:variable	line:111
+do_commit	../pro/1001/web/db.py	/^            def do_commit(self):$/;"	kind:member	line:430
+do_commit	../pro/1001/web/db.py	/^            def do_commit(self):$/;"	kind:member	line:445
+do_request	../pro/1001/web/browser.py	/^    def do_request(self, req):$/;"	kind:member	line:75
+do_rollback	../pro/1001/web/db.py	/^            def do_rollback(self):$/;"	kind:member	line:433
+do_rollback	../pro/1001/web/db.py	/^            def do_rollback(self):$/;"	kind:member	line:448
+do_transact	../pro/1001/web/db.py	/^            def do_transact(self):$/;"	kind:member	line:427
+do_transact	../pro/1001/web/db.py	/^            def do_transact(self):$/;"	kind:member	line:442
+doctest	../pro/1001/web/application.py	/^    import doctest$/;"	kind:namespace	line:763
+doctest	../pro/1001/web/db.py	/^    import doctest$/;"	kind:namespace	line:1291
+doctest	../pro/1001/web/form.py	/^    import doctest$/;"	kind:namespace	line:420
+doctest	../pro/1001/web/http.py	/^    import doctest$/;"	kind:namespace	line:156
+doctest	../pro/1001/web/net.py	/^    import doctest$/;"	kind:namespace	line:260
+doctest	../pro/1001/web/session.py	/^    import doctest$/;"	kind:namespace	line:358
+doctest	../pro/1001/web/template.py	/^        import doctest$/;"	kind:namespace	line:1540
+doctest	../pro/1001/web/test.py	/^import unittest, doctest$/;"	kind:namespace	line:4
+doctest	../pro/1001/web/utils.py	/^    import doctest$/;"	kind:namespace	line:1517
+doctest	../pro/1001/web/webapi.py	/^    import doctest$/;"	kind:namespace	line:558
+doctest_suite	../pro/1001/web/test.py	/^def doctest_suite(module_names):$/;"	kind:function	line:41
+dummy_engine	../pro/1001/web/db.py	/^        class dummy_engine:$/;"	kind:class	line:451
+email	../pro/1001/web/browser.py	/^            import email$/;"	kind:namespace	line:268
+email	../pro/1001/web/utils.py	/^        import email.utils$/;"	kind:namespace	line:1398
+email	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import email.utils$/;"	kind:namespace	line:87
+email	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import email.utils$/;"	kind:namespace	line:87
+emailerrors	../pro/1001/web/debugerror.py	/^def emailerrors(to_address, olderror, from_address=None):$/;"	kind:function	line:315
+emailerrors_internal	../pro/1001/web/debugerror.py	/^    def emailerrors_internal():$/;"	kind:function	line:326
+emit	../pro/1001/web/template.py	/^    def emit(self, indent):$/;"	kind:member	line:555
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, begin_indent=''):$/;"	kind:member	line:566
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, begin_indent=''):$/;"	kind:member	line:582
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, begin_indent=''):$/;"	kind:member	line:596
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, begin_indent=''):$/;"	kind:member	line:662
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, text_indent):$/;"	kind:member	line:699
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, text_indent=''):$/;"	kind:member	line:624
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, text_indent=''):$/;"	kind:member	line:650
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, text_indent=''):$/;"	kind:member	line:689
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, text_indent=''):$/;"	kind:member	line:710
+emit	../pro/1001/web/template.py	/^    def emit(self, indent, text_indent='', name=''):$/;"	kind:member	line:606
+encode	../pro/1001/web/session.py	/^    def encode(self, session_dict):$/;"	kind:member	line:202
+encoders	../pro/1001/web/utils.py	/^            from email import Encoders as encoders$/;"	kind:namespace	line:1434
+encoders	../pro/1001/web/utils.py	/^            from email import encoders$/;"	kind:namespace	line:1432
+end_headers	../pro/1001/web/httpserver.py	/^    def end_headers(self):$/;"	kind:member	line:239
+errno	../pro/1001/web/httpserver.py	/^    import socket, errno$/;"	kind:namespace	line:48
+errno	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import errno$/;"	kind:namespace	line:97
+errno	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import errno$/;"	kind:namespace	line:93
+error_log	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def error_log(self, msg="", level=20, traceback=False):$/;"	kind:member	line:1970
+error_log	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def error_log(self, msg="", level=20, traceback=False):$/;"	kind:member	line:1695
+eta	../pro/1001/web/utils.py	/^   def eta(elapsed, n, lenx):$/;"	kind:function	line:579
+even	../pro/1001/web/template.py	/^    even = property(lambda self: self.index % 2 == 0)$/;"	kind:variable	line:807
+expired	../pro/1001/web/session.py	/^    def expired(self):$/;"	kind:member	line:175
+expires	../pro/1001/web/http.py	/^def expires(delta):$/;"	kind:function	line:37
+extended_expr	../pro/1001/web/template.py	/^        def extended_expr():$/;"	kind:function	line:278
+extensions	../pro/1001/web/db.py	/^            import psycopg2.extensions$/;"	kind:namespace	line:953
+f	../pro/1001/web/browser.py	/^        def f(link):$/;"	kind:function	line:167
+fail_attribute	../pro/1001/web/template.py	/^    def fail_attribute(self, node, attrname):$/;"	kind:member	line:1204
+fail_name	../pro/1001/web/template.py	/^    def fail_name(self, node, nodename):$/;"	kind:member	line:1199
+fcntl	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    import fcntl$/;"	kind:namespace	line:1677
+fcntl	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    import fcntl$/;"	kind:namespace	line:1402
+fill	../pro/1001/web/form.py	/^    def fill(self, source=None, **kw):$/;"	kind:member	line:99
+find_indent	../pro/1001/web/template.py	/^            def find_indent(text):$/;"	kind:function	line:462
+find_link	../pro/1001/web/browser.py	/^    def find_link(self, text=None, text_regex=None, url=None, url_regex=None, predicate=None):$/;"	kind:member	line:146
+first	../pro/1001/web/template.py	/^    first = property(lambda self: self.index == 1)$/;"	kind:variable	line:804
+first	../pro/1001/web/utils.py	/^    def first(self, default=None):$/;"	kind:member	line:652
+flup	../pro/1001/web/wsgi.py	/^    import flup.server.fcgi as flups$/;"	kind:namespace	line:16
+flup	../pro/1001/web/wsgi.py	/^    import flup.server.scgi as flups$/;"	kind:namespace	line:21
+flups	../pro/1001/web/wsgi.py	/^    import flup.server.fcgi as flups$/;"	kind:namespace	line:16
+flups	../pro/1001/web/wsgi.py	/^    import flup.server.scgi as flups$/;"	kind:namespace	line:21
+flush	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def flush(self):$/;"	kind:member	line:1028
+follow_link	../pro/1001/web/browser.py	/^    def follow_link(self, link=None, text=None, text_regex=None, url=None, url_regex=None, predicate=None):$/;"	kind:member	line:135
+forbidden	../pro/1001/web/webapi.py	/^forbidden = Forbidden$/;"	kind:variable	line:163
+form	../pro/1001/web/__init__.py	/^from . import template, form$/;"	kind:namespace	line:15
+form	../pro/1001/web/webopenid.py	/^def form(openid_loc):$/;"	kind:function	line:59
+form.py	../pro/1001/web/form.py	1;"	kind:file	line:1
+format	../pro/1001/web/utils.py	/^   def format(starttime, n, lenx):$/;"	kind:function	line:591
+format_exc	../pro/1001/web/utils.py	/^    def format_exc(limit=None):$/;"	kind:member	line:1130
+found	../pro/1001/web/webapi.py	/^found = Found$/;"	kind:variable	line:112
+frender	../pro/1001/web/template.py	/^def frender(path, **keywords):$/;"	kind:function	line:1075
+gaerun	../pro/1001/web/application.py	/^    def gaerun(self, *middleware):$/;"	kind:member	line:366
+gateway	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    gateway = None$/;"	kind:variable	line:1736
+gateway	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    gateway = None$/;"	kind:variable	line:1461
+gen_clause	../pro/1001/web/db.py	/^    def gen_clause(self, sql, val, vars): $/;"	kind:member	line:735
+generate_code	../pro/1001/web/template.py	/^    def generate_code(text, filename, parser=None):$/;"	kind:member	line:906
+generate_code	../pro/1001/web/template.py	/^    generate_code = staticmethod(generate_code)$/;"	kind:variable	line:915
+generators	../pro/1001/web/__init__.py	/^from __future__ import generators$/;"	kind:namespace	line:4
+generic_visit	../pro/1001/web/template.py	/^    def generic_visit(self, node):$/;"	kind:member	line:1169
+get	../pro/1001/web/form.py	/^    def get(self, i, default=None):$/;"	kind:member	line:114
+get	../pro/1001/web/utils.py	/^    def get(self, key, default=None):$/;"	kind:member	line:1237
+get_context	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def get_context(self):$/;"	kind:member	line:189
+get_data	../pro/1001/web/browser.py	/^    get_data = lambda x: x.data$/;"	kind:variable	line:22
+get_data	../pro/1001/web/browser.py	/^    get_data = lambda x: x.get_data()$/;"	kind:variable	line:17
+get_default_id	../pro/1001/web/form.py	/^    def get_default_id(self):$/;"	kind:member	line:148
+get_default_id	../pro/1001/web/form.py	/^    def get_default_id(self):$/;"	kind:member	line:341
+get_environ	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    def get_environ(self, sock):$/;"	kind:member	line:93
+get_environ	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def get_environ(self):$/;"	kind:member	line:199
+get_environ	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def get_environ(self):$/;"	kind:member	line:2249
+get_environ	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def get_environ(self):$/;"	kind:member	line:2344
+get_environ	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def get_environ(self):$/;"	kind:member	line:2405
+get_environ	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def get_environ(self):$/;"	kind:member	line:1974
+get_environ	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def get_environ(self):$/;"	kind:member	line:2077
+get_environ	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def get_environ(self):$/;"	kind:member	line:2138
+get_forms	../pro/1001/web/browser.py	/^    def get_forms(self):$/;"	kind:member	line:175
+get_host	../pro/1001/web/browser.py	/^    get_host = lambda x: x.get_host()$/;"	kind:variable	line:16
+get_host	../pro/1001/web/browser.py	/^    get_host = lambda x: x.host$/;"	kind:variable	line:21
+get_links	../pro/1001/web/browser.py	/^    def get_links(self, text=None, text_regex=None, url=None, url_regex=None, predicate=None):$/;"	kind:member	line:130
+get_marker	../pro/1001/web/db.py	/^    def get_marker(self, paramstyle='pyformat'):$/;"	kind:member	line:78
+get_node_attr	../pro/1001/web/template.py	/^    def get_node_attr(self, node):$/;"	kind:member	line:1215
+get_node_lineno	../pro/1001/web/template.py	/^    def get_node_lineno(self, node):$/;"	kind:member	line:1218
+get_parent_app	../pro/1001/web/application.py	/^    def get_parent_app(self):$/;"	kind:member	line:525
+get_pooled_db	../pro/1001/web/db.py	/^        def get_pooled_db():$/;"	kind:function	line:558
+get_response	../pro/1001/web/browser.py	/^    def get_response(self):$/;"	kind:member	line:112
+get_selector	../pro/1001/web/browser.py	/^    get_selector = lambda x: x.get_selector()$/;"	kind:variable	line:15
+get_selector	../pro/1001/web/browser.py	/^    get_selector = lambda x: x.selector$/;"	kind:variable	line:20
+get_soup	../pro/1001/web/browser.py	/^    def get_soup(self):$/;"	kind:member	line:116
+get_source_line	../pro/1001/web/template.py	/^        def get_source_line(filename, lineno):$/;"	kind:function	line:926
+get_ssl_adapter_class	../pro/1001/web/wsgiserver/wsgiserver2.py	/^def get_ssl_adapter_class(name='builtin'):$/;"	kind:function	line:2177
+get_ssl_adapter_class	../pro/1001/web/wsgiserver/wsgiserver3.py	/^def get_ssl_adapter_class(name='builtin'):$/;"	kind:function	line:1902
+get_text	../pro/1001/web/browser.py	/^    def get_text(self, e=None):$/;"	kind:member	line:121
+get_tokens	../pro/1001/web/template.py	/^        def get_tokens(text):$/;"	kind:function	line:316
+get_type	../pro/1001/web/browser.py	/^    get_type = lambda x: x.get_type()$/;"	kind:variable	line:18
+get_type	../pro/1001/web/browser.py	/^    get_type = lambda x: x.type$/;"	kind:variable	line:23
+get_type	../pro/1001/web/form.py	/^    def get_type(self):$/;"	kind:member	line:145
+get_type	../pro/1001/web/form.py	/^    def get_type(self):$/;"	kind:member	line:206
+get_type	../pro/1001/web/form.py	/^    def get_type(self):$/;"	kind:member	line:216
+get_type	../pro/1001/web/form.py	/^    def get_type(self):$/;"	kind:member	line:390
+get_type	../pro/1001/web/form.py	/^    def get_type(self):$/;"	kind:member	line:399
+get_value	../pro/1001/web/form.py	/^    def get_value(self):$/;"	kind:member	line:163
+get_value	../pro/1001/web/form.py	/^    def get_value(self):$/;"	kind:member	line:358
+getvalue	../pro/1001/web/utils.py	/^    def getvalue(x):$/;"	kind:function	line:132
+glob	../pro/1001/web/template.py	/^import glob$/;"	kind:namespace	line:42
+globals	../pro/1001/web/template.py	/^    globals = {}$/;"	kind:variable	line:864
+gone	../pro/1001/web/webapi.py	/^gone = Gone$/;"	kind:variable	line:230
+group	../pro/1001/web/utils.py	/^def group(seq, size): $/;"	kind:function	line:515
+grow	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def grow(self, amount):$/;"	kind:member	line:1586
+grow	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def grow(self, amount):$/;"	kind:member	line:1316
+h	../sample/c3.py	/^h = 1.75$/;"	kind:variable	line:101
+handle	../pro/1001/web/application.py	/^    def handle(self):$/;"	kind:member	line:246
+handle	../pro/1001/web/application.py	/^    def handle(self):$/;"	kind:member	line:616
+handle_class	../pro/1001/web/application.py	/^        def handle_class(cls):$/;"	kind:function	line:459
+handle_with_processors	../pro/1001/web/application.py	/^    def handle_with_processors(self):$/;"	kind:member	line:250
+handler_order	../pro/1001/web/browser.py	/^    handler_order = 100$/;"	kind:variable	line:236
+handlers	../pro/1001/web/application.py	/^import wsgiref.handlers$/;"	kind:namespace	line:22
+has_key	../pro/1001/web/utils.py	/^    has_key = __contains__$/;"	kind:variable	line:1229
+header	../pro/1001/web/webapi.py	/^def header(hdr, value, unique=False):$/;"	kind:function	line:293
+hello	../pro/1001/webapp.py	/^    '\/', 'hello', # hello 是一个类，对应下方的class hello$/;"	kind:class	line:15
+hello	../pro/1001/webapp.py	/^class hello:$/;"	kind:class	line:30
+hmac	../pro/1001/web/webopenid.py	/^import hmac$/;"	kind:namespace	line:24
+host	../pro/1001/web/webopenid.py	/^class host:$/;"	kind:class	line:82
+htmlquote	../pro/1001/web/net.py	/^def htmlquote(text):$/;"	kind:function	line:205
+htmlunquote	../pro/1001/web/browser.py	/^from .net import htmlunquote$/;"	kind:namespace	line:5
+htmlunquote	../pro/1001/web/net.py	/^def htmlunquote(text):$/;"	kind:function	line:219
+http	../pro/1001/web/__init__.py	/^from . import utils, db, net, wsgi, http, webapi, httpserver, debugerror$/;"	kind:namespace	line:14
+http	../pro/1001/web/wsgi.py	/^from . import http$/;"	kind:namespace	line:8
+http.py	../pro/1001/web/http.py	1;"	kind:file	line:1
+http_open	../pro/1001/web/browser.py	/^    def http_open(self, req):$/;"	kind:member	line:241
+httpdate	../pro/1001/web/net.py	/^def httpdate(date_obj):$/;"	kind:function	line:182
+https_open	../pro/1001/web/browser.py	/^    def https_open(self, req):$/;"	kind:member	line:252
+httpserver	../pro/1001/web/__init__.py	/^from . import utils, db, net, wsgi, http, webapi, httpserver, debugerror$/;"	kind:namespace	line:14
+httpserver	../pro/1001/web/application.py	/^from . import httpserver$/;"	kind:namespace	line:10
+httpserver	../pro/1001/web/wsgi.py	/^from . import httpserver$/;"	kind:namespace	line:12
+httpserver.py	../pro/1001/web/httpserver.py	1;"	kind:file	line:1
+i	../sample/c1.py	/^i = input("plese input somethong...")$/;"	kind:variable	line:20
+identifier	../pro/1001/web/template.py	/^        def identifier():$/;"	kind:function	line:275
+idle	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    idle = property(_get_idle, doc=_get_idle.__doc__)$/;"	kind:variable	line:1579
+idle	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    idle = property(_get_idle, doc=_get_idle.__doc__)$/;"	kind:variable	line:1309
+imap	../pro/1001/web/py3helpers.py	/^    from itertools import imap$/;"	kind:namespace	line:40
+imap	../pro/1001/web/py3helpers.py	/^    imap = map$/;"	kind:variable	line:42
+imap	../pro/1001/web/utils.py	/^from .py3helpers import PY2, itervalues, iteritems, text_type, string_types, imap, is_iter$/;"	kind:namespace	line:41
+imp	../pro/1001/web/application.py	/^        from imp import reload #Since Py 3.0 and before 3.4 reload is in imp$/;"	kind:namespace	line:33
+import_driver	../pro/1001/web/db.py	/^def import_driver(drivers, preferred=None):$/;"	kind:function	line:1024
+imported	../pro/1001/web/utils.py	/^        import cProfile, pstats, os, tempfile ##, time already imported$/;"	kind:namespace	line:1095
+in	../pro/1001/web/application.py	/^        from imp import reload #Since Py 3.0 and before 3.4 reload is in imp$/;"	kind:namespace	line:33
+index	../pro/1001/web/debugerror.py	/^    class index:$/;"	kind:class	line:358
+index0	../pro/1001/web/template.py	/^    index0 = property(lambda self: self.index-1)$/;"	kind:variable	line:803
+inheaders	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    inheaders = {}$/;"	kind:variable	line:570
+inheaders	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    inheaders = {}$/;"	kind:variable	line:556
+init_mapping	../pro/1001/web/application.py	/^    def init_mapping(self, mapping):$/;"	kind:member	line:129
+inp	../sample/c3.py	/^inp = "100"$/;"	kind:variable	line:85
+input	../pro/1001/web/webapi.py	/^def input(*requireds, **defaults):$/;"	kind:function	line:358
+insert	../pro/1001/web/db.py	/^    def insert(self, tablename, seqname=None, _test=False, **values): $/;"	kind:member	line:757
+internal	../pro/1001/web/application.py	/^    def internal(self, arg):$/;"	kind:function	line:704
+internalerror	../pro/1001/web/application.py	/^    def internalerror(self):$/;"	kind:member	line:539
+internalerror	../pro/1001/web/webapi.py	/^internalerror = InternalError$/;"	kind:variable	line:291
+interrupt	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    interrupt = property(_get_interrupt, _set_interrupt,$/;"	kind:variable	line:2105
+interrupt	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    interrupt = property(_get_interrupt, _set_interrupt,$/;"	kind:variable	line:1830
+intget	../pro/1001/web/utils.py	/^def intget(integer, default=None):$/;"	kind:function	line:840
+intget	../pro/1001/web/webapi.py	/^from .utils import storage, storify, threadeddict, dictadd, intget, safestr$/;"	kind:namespace	line:33
+intget	../pro/1001/web/wsgi.py	/^from .utils import listget, intget$/;"	kind:namespace	line:10
+io	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    import _pyio as io$/;"	kind:namespace	line:101
+io	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    import io$/;"	kind:namespace	line:104
+io	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    import _pyio as io$/;"	kind:namespace	line:99
+io	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    import io$/;"	kind:namespace	line:102
+is	../pro/1001/web/application.py	/^        from imp import reload #Since Py 3.0 and before 3.4 reload is in imp$/;"	kind:namespace	line:33
+is	../pro/1001/web/wsgiserver/wsgiserver2.py	/^del FauxSocket  # this class is not longer required for anything.$/;"	kind:class	line:136
+is_hidden	../pro/1001/web/form.py	/^    def is_hidden(self):$/;"	kind:member	line:142
+is_hidden	../pro/1001/web/form.py	/^    def is_hidden(self):$/;"	kind:member	line:387
+is_iter	../pro/1001/web/application.py	/^from .py3helpers import iteritems, string_types, is_iter, PY2, text_type$/;"	kind:namespace	line:12
+is_iter	../pro/1001/web/py3helpers.py	/^    is_iter = lambda x: x and hasattr(x, '__next__')$/;"	kind:variable	line:36
+is_iter	../pro/1001/web/py3helpers.py	/^    is_iter = lambda x: x and hasattr(x, 'next')$/;"	kind:variable	line:34
+is_iter	../pro/1001/web/utils.py	/^from .py3helpers import PY2, itervalues, iteritems, text_type, string_types, imap, is_iter$/;"	kind:namespace	line:41
+is_unallowed_attr	../pro/1001/web/template.py	/^    def is_unallowed_attr(self, name):$/;"	kind:member	line:1210
+isclass	../pro/1001/web/application.py	/^from inspect import isclass$/;"	kind:namespace	line:20
+items	../pro/1001/web/utils.py	/^    def items(self):$/;"	kind:member	line:1240
+iter	../pro/1001/web/utils.py	/^    iter = iterkeys$/;"	kind:variable	line:1252
+iterbetter	../pro/1001/web/db.py	/^from .utils import threadeddict, storage, iters, iterbetter, safestr, safeunicode$/;"	kind:namespace	line:6
+iterbetter	../pro/1001/web/utils.py	/^iterbetter = IterBetter$/;"	kind:variable	line:701
+iteritems	../pro/1001/web/application.py	/^from .py3helpers import iteritems, string_types, is_iter, PY2, text_type$/;"	kind:namespace	line:12
+iteritems	../pro/1001/web/db.py	/^from .py3helpers import PY2, string_types, numeric_types, iteritems$/;"	kind:namespace	line:9
+iteritems	../pro/1001/web/http.py	/^from .py3helpers import iteritems$/;"	kind:namespace	line:17
+iteritems	../pro/1001/web/py3helpers.py	/^    iteritems = lambda d: d.iteritems()$/;"	kind:variable	line:17
+iteritems	../pro/1001/web/py3helpers.py	/^    iteritems = lambda d: iter(d.items())$/;"	kind:variable	line:21
+iteritems	../pro/1001/web/template.py	/^from .py3helpers import PY2, iteritems$/;"	kind:namespace	line:50
+iteritems	../pro/1001/web/utils.py	/^    def iteritems(self):$/;"	kind:member	line:1243
+iteritems	../pro/1001/web/utils.py	/^from .py3helpers import PY2, itervalues, iteritems, text_type, string_types, imap, is_iter$/;"	kind:namespace	line:41
+iterkeys	../pro/1001/web/py3helpers.py	/^    iterkeys = lambda d: d.iterkeys()$/;"	kind:variable	line:15
+iterkeys	../pro/1001/web/py3helpers.py	/^    iterkeys = lambda d: iter(d.keys())$/;"	kind:variable	line:19
+iterkeys	../pro/1001/web/utils.py	/^    def iterkeys(self):$/;"	kind:member	line:1249
+iters	../pro/1001/web/db.py	/^from .utils import threadeddict, storage, iters, iterbetter, safestr, safeunicode$/;"	kind:namespace	line:6
+iters	../pro/1001/web/utils.py	/^iters = [list, tuple, set, frozenset]$/;"	kind:variable	line:253
+iters	../pro/1001/web/utils.py	/^iters = _hack(iters)$/;"	kind:variable	line:255
+itertools	../pro/1001/web/application.py	/^import itertools$/;"	kind:namespace	line:17
+itertools	../pro/1001/web/utils.py	/^import re, sys, time, threading, itertools, traceback, os$/;"	kind:namespace	line:35
+itervalues	../pro/1001/web/py3helpers.py	/^    itervalues = lambda d: d.itervalues()$/;"	kind:variable	line:16
+itervalues	../pro/1001/web/py3helpers.py	/^    itervalues = lambda d: iter(d.values())$/;"	kind:variable	line:20
+itervalues	../pro/1001/web/utils.py	/^    def itervalues(self):$/;"	kind:member	line:1257
+itervalues	../pro/1001/web/utils.py	/^from .py3helpers import PY2, itervalues, iteritems, text_type, string_types, imap, is_iter$/;"	kind:namespace	line:41
+iterview	../pro/1001/web/utils.py	/^def iterview(x):$/;"	kind:function	line:561
+iterwrapper	../pro/1001/web/db.py	/^            def iterwrapper():$/;"	kind:function	line:669
+join	../pro/1001/web/db.py	/^    def join(items, sep=' ', prefix=None, suffix=None, target=None):$/;"	kind:member	line:210
+join	../pro/1001/web/db.py	/^    join = staticmethod(join)$/;"	kind:variable	line:244
+keys	../pro/1001/web/template.py	/^    def keys(self):$/;"	kind:member	line:1254
+keys	../pro/1001/web/utils.py	/^    def keys(self):$/;"	kind:member	line:1246
+kill	../pro/1001/web/session.py	/^    def kill(self):$/;"	kind:member	line:181
+last	../pro/1001/web/template.py	/^    last = property(lambda self: self.index == self.length)$/;"	kind:variable	line:805
+lastmodified	../pro/1001/web/http.py	/^def lastmodified(date_obj):$/;"	kind:function	line:47
+least	../pro/1001/web/utils.py	/^    def least(self):$/;"	kind:member	line:192
+linger	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    linger = False$/;"	kind:variable	line:1419
+linger	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    linger = False$/;"	kind:variable	line:1148
+listget	../pro/1001/web/utils.py	/^def listget(lst, ind, default=None):$/;"	kind:function	line:826
+listget	../pro/1001/web/wsgi.py	/^from .utils import listget, intget$/;"	kind:namespace	line:10
+listify	../pro/1001/web/utils.py	/^        def listify(x):$/;"	kind:function	line:1383
+load	../pro/1001/web/application.py	/^    def load(self, env):$/;"	kind:member	line:408
+load_modules	../pro/1001/web/test.py	/^def load_modules(names):$/;"	kind:function	line:13
+loadhook	../pro/1001/web/application.py	/^def loadhook(h):$/;"	kind:function	line:632
+log	../pro/1001/web/httpserver.py	/^    def log(self, status, environ):$/;"	kind:member	line:326
+log_message	../pro/1001/web/httpserver.py	/^    def log_message(*a): pass$/;"	kind:member	line:242
+logging	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import logging$/;"	kind:namespace	line:98
+logging	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import logging$/;"	kind:namespace	line:94
+logout	../pro/1001/web/webopenid.py	/^def logout():$/;"	kind:function	line:79
+lookahead	../pro/1001/web/template.py	/^            def lookahead(self):$/;"	kind:member	line:342
+lookahead2	../pro/1001/web/template.py	/^            def lookahead2(self):$/;"	kind:member	line:353
+lstrips	../pro/1001/web/application.py	/^from .utils import lstrips, safeunicode$/;"	kind:namespace	line:11
+lstrips	../pro/1001/web/utils.py	/^def lstrips(text, remove):$/;"	kind:function	line:287
+main	../pro/1001/web/test.py	/^def main(suite=None):$/;"	kind:function	line:59
+main_module_name	../pro/1001/web/application.py	/^            def main_module_name():$/;"	kind:function	line:70
+make_env	../pro/1001/web/template.py	/^    def make_env(self, globals, builtins):$/;"	kind:member	line:833
+makefile	../pro/1001/web/httpserver.py	/^            def makefile(self, *a):$/;"	kind:member	line:312
+makefile	../pro/1001/web/wsgiserver/ssl_builtin.py	/^        def makefile(self, sock, mode='r', bufsize=DEFAULT_BUFFER_SIZE):$/;"	kind:function	line:107
+makefile	../pro/1001/web/wsgiserver/ssl_builtin.py	/^        def makefile(self, sock, mode='r', bufsize=DEFAULT_BUFFER_SIZE):$/;"	kind:function	line:110
+makefile	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def makefile(self, sock, mode='r', bufsize=-1):$/;"	kind:member	line:246
+makefile	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def makefile(self, sock, mode='r', bufsize=DEFAULT_BUFFER_SIZE):$/;"	kind:member	line:1725
+makefile	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def makefile(self, sock, mode='r', bufsize=DEFAULT_BUFFER_SIZE):$/;"	kind:member	line:1450
+markdown	../pro/1001/web/utils.py	/^    from markdown import markdown$/;"	kind:namespace	line:1335
+matchorfail	../pro/1001/web/db.py	/^    def matchorfail(text, pos):$/;"	kind:function	line:1232
+max_request_body_size	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    max_request_body_size = 0$/;"	kind:variable	line:1782
+max_request_body_size	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    max_request_body_size = 0$/;"	kind:variable	line:1508
+max_request_header_size	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    max_request_header_size = 0$/;"	kind:variable	line:1779
+max_request_header_size	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    max_request_header_size = 0$/;"	kind:variable	line:1505
+maxthreads	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    maxthreads = None$/;"	kind:variable	line:1742
+maxthreads	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    maxthreads = None$/;"	kind:variable	line:1467
+memoize	../pro/1001/web/utils.py	/^memoize = Memoize$/;"	kind:variable	line:486
+memstore	../pro/1001/web/webopenid.py	/^import openid.store.memstore$/;"	kind:namespace	line:27
+message	../pro/1001/web/webapi.py	/^    message = "bad request"$/;"	kind:variable	line:137
+message	../pro/1001/web/webapi.py	/^    message = "conflict"$/;"	kind:variable	line:214
+message	../pro/1001/web/webapi.py	/^    message = "forbidden"$/;"	kind:variable	line:157
+message	../pro/1001/web/webapi.py	/^    message = "gone"$/;"	kind:variable	line:224
+message	../pro/1001/web/webapi.py	/^    message = "internal server error"$/;"	kind:variable	line:274
+message	../pro/1001/web/webapi.py	/^    message = "not acceptable"$/;"	kind:variable	line:204
+message	../pro/1001/web/webapi.py	/^    message = "not found"$/;"	kind:variable	line:167
+message	../pro/1001/web/webapi.py	/^    message = "precondition failed"$/;"	kind:variable	line:234
+message	../pro/1001/web/webapi.py	/^    message = "unauthorized"$/;"	kind:variable	line:147
+message	../pro/1001/web/webapi.py	/^    message = "unsupported media type"$/;"	kind:variable	line:244
+message	../pro/1001/web/webapi.py	/^    message="unavailable for legal reasons"$/;"	kind:variable	line:254
+metapage	../pro/1001/web/application.py	/^        class metapage(type):$/;"	kind:class	line:577
+mimetypes	../pro/1001/web/utils.py	/^        import mimetypes$/;"	kind:namespace	line:1430
+minthreads	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    minthreads = None$/;"	kind:variable	line:1739
+minthreads	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    minthreads = None$/;"	kind:variable	line:1464
+modified	../pro/1001/web/http.py	/^def modified(date=None, etag=None):$/;"	kind:function	line:51
+modname	../pro/1001/web/application.py	/^            def modname(fvars):$/;"	kind:function	line:75
+module_suite	../pro/1001/web/test.py	/^def module_suite(module, classnames=None):$/;"	kind:function	line:16
+most	../pro/1001/web/utils.py	/^    def most(self):$/;"	kind:member	line:187
+movieinfo	../pro/1001/webapp.py	/^class movieinfo:$/;"	kind:class	line:39
+multiple_insert	../pro/1001/web/db.py	/^    def multiple_insert(self, tablename, values, seqname=None, _test=False):$/;"	kind:member	line:814
+n	../pro/1001/web/template.py	/^        out.write('from web.template import CompiledTemplate, ForLoop, TemplateResult\\n\\n')$/;"	kind:namespace	line:1092
+n	../sample/c3.py	/^    n = n-2$/;"	kind:variable	line:140
+n	../sample/c3.py	/^n = 99$/;"	kind:variable	line:137
+name	../sample/c2.py	/^name = "T1000"$/;"	kind:variable	line:46
+net	../pro/1001/web/__init__.py	/^from . import utils, db, net, wsgi, http, webapi, httpserver, debugerror$/;"	kind:namespace	line:14
+net	../pro/1001/web/form.py	/^from . import utils, net, webapi as web$/;"	kind:namespace	line:7
+net	../pro/1001/web/http.py	/^from . import net, utils, webapi as web$/;"	kind:namespace	line:15
+net	../pro/1001/web/httpserver.py	/^from . import net$/;"	kind:namespace	line:8
+net.py	../pro/1001/web/net.py	1;"	kind:file	line:1
+new_message	../pro/1001/web/utils.py	/^    def new_message(self):$/;"	kind:member	line:1418
+next	../pro/1001/web/template.py	/^            next = __next__ #Needed for Py2 compatibility$/;"	kind:variable	line:363
+next	../pro/1001/web/template.py	/^    next = __next__ #needed for Py2 compatibility$/;"	kind:variable	line:537
+next	../pro/1001/web/utils.py	/^    def next():$/;"	kind:function	line:706
+next	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def next(self):$/;"	kind:member	line:340
+next	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def next(self):$/;"	kind:member	line:326
+next_hook	../pro/1001/web/application.py	/^        def next_hook():$/;"	kind:function	line:672
+nodelay	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    nodelay = True$/;"	kind:variable	line:1785
+nodelay	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    nodelay = True$/;"	kind:variable	line:1511
+nomethod	../pro/1001/web/webapi.py	/^nomethod = NoMethod$/;"	kind:variable	line:200
+normalize_text	../pro/1001/web/template.py	/^    def normalize_text(text):$/;"	kind:member	line:882
+normalize_text	../pro/1001/web/template.py	/^    normalize_text = staticmethod(normalize_text)$/;"	kind:variable	line:896
+normpath	../pro/1001/web/httpserver.py	/^    def normpath(self, path):$/;"	kind:member	line:296
+notacceptable	../pro/1001/web/webapi.py	/^notacceptable = NotAcceptable$/;"	kind:variable	line:210
+notfound	../pro/1001/web/application.py	/^    def notfound(self):$/;"	kind:member	line:531
+notfound	../pro/1001/web/webapi.py	/^notfound = NotFound$/;"	kind:variable	line:183
+notmodified	../pro/1001/web/webapi.py	/^notmodified = NotModified$/;"	kind:variable	line:126
+notnull	../pro/1001/web/form.py	/^notnull = Validator("Required", bool)$/;"	kind:variable	line:409
+nthstr	../pro/1001/web/utils.py	/^def nthstr(n):$/;"	kind:function	line:1019
+ntob	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def ntob(n, encoding='ISO-8859-1'):$/;"	kind:function	line:153
+ntob	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def ntob(n, encoding='ISO-8859-1'):$/;"	kind:member	line:143
+ntob	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def ntob(n, encoding='ISO-8859-1'):$/;"	kind:function	line:129
+ntob	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def ntob(n, encoding='ISO-8859-1'):$/;"	kind:function	line:139
+numeric_types	../pro/1001/web/db.py	/^from .py3helpers import PY2, string_types, numeric_types, iteritems$/;"	kind:namespace	line:9
+numeric_types	../pro/1001/web/py3helpers.py	/^    numeric_types = (int, long)$/;"	kind:variable	line:27
+numeric_types	../pro/1001/web/py3helpers.py	/^    numeric_types = (int,)$/;"	kind:variable	line:31
+numify	../pro/1001/web/utils.py	/^def numify(string):$/;"	kind:function	line:941
+numthreads	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    numthreads = property(_get_numthreads, _set_numthreads)$/;"	kind:variable	line:2236
+numthreads	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    numthreads = property(_get_numthreads, _set_numthreads)$/;"	kind:variable	line:1961
+odd	../pro/1001/web/template.py	/^    odd = property(lambda self: self.index % 2 == 1)$/;"	kind:variable	line:806
+open	../pro/1001/web/browser.py	/^    def open(self, url, data=None, headers={}):$/;"	kind:member	line:95
+openid	../pro/1001/web/__init__.py	/^    from . import webopenid as openid$/;"	kind:namespace	line:30
+openid	../pro/1001/web/webopenid.py	/^import openid.consumer.consumer$/;"	kind:namespace	line:26
+openid	../pro/1001/web/webopenid.py	/^import openid.store.memstore$/;"	kind:namespace	line:27
+operator	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import operator$/;"	kind:namespace	line:93
+or	../pro/1001/web/db.py	/^    raise ImportError("Unable to import " + " or ".join(drivers))$/;"	kind:namespace	line:1035
+os	../pro/1001/web/application.py	/^import os$/;"	kind:namespace	line:18
+os	../pro/1001/web/browser.py	/^        import webbrowser, os$/;"	kind:namespace	line:108
+os	../pro/1001/web/contrib/template.py	/^import os.path$/;"	kind:namespace	line:4
+os	../pro/1001/web/db.py	/^import datetime, time, os, urllib, re$/;"	kind:namespace	line:7
+os	../pro/1001/web/debugerror.py	/^import os, os.path$/;"	kind:namespace	line:28
+os	../pro/1001/web/http.py	/^import sys, os, threading, urllib$/;"	kind:namespace	line:13
+os	../pro/1001/web/httpserver.py	/^import sys, os$/;"	kind:namespace	line:3
+os	../pro/1001/web/session.py	/^import os, time, datetime, random, base64$/;"	kind:namespace	line:6
+os	../pro/1001/web/session.py	/^import os.path$/;"	kind:namespace	line:7
+os	../pro/1001/web/template.py	/^import os$/;"	kind:namespace	line:40
+os	../pro/1001/web/utils.py	/^        import cProfile, pstats, os, tempfile ##, time already imported$/;"	kind:namespace	line:1095
+os	../pro/1001/web/utils.py	/^import re, sys, time, threading, itertools, traceback, os$/;"	kind:namespace	line:35
+os	../pro/1001/web/webopenid.py	/^import os$/;"	kind:namespace	line:22
+os	../pro/1001/web/wsgi.py	/^import os, sys$/;"	kind:namespace	line:6
+os	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import os$/;"	kind:namespace	line:81
+os	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import os$/;"	kind:namespace	line:81
+os	../pro/1001/webapp.py	/^import os$/;"	kind:namespace	line:4
+outheaders	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    outheaders = []$/;"	kind:variable	line:573
+outheaders	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    outheaders = []$/;"	kind:variable	line:559
+page	../pro/1001/web/application.py	/^        class page():$/;"	kind:class	line:589
+paren_expr	../pro/1001/web/template.py	/^        def paren_expr():$/;"	kind:function	line:298
+parity	../pro/1001/web/template.py	/^    parity = property(lambda self: ['odd', 'even'][self.even])$/;"	kind:variable	line:808
+parse	../pro/1001/web/template.py	/^    def parse(self, text, name="<template>"):$/;"	kind:member	line:85
+parse_cookies	../pro/1001/web/webapi.py	/^def parse_cookies(http_cookie):$/;"	kind:function	line:421
+parse_request	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def parse_request(self):$/;"	kind:member	line:611
+parse_request	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def parse_request(self):$/;"	kind:member	line:597
+parse_request_uri	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def parse_request_uri(self, uri):$/;"	kind:member	line:821
+parse_request_uri	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def parse_request_uri(self, uri):$/;"	kind:member	line:811
+parsehttpdate	../pro/1001/web/net.py	/^def parsehttpdate(string_):$/;"	kind:function	line:192
+path	../pro/1001/web/application.py	/^            path = None$/;"	kind:variable	line:590
+path	../pro/1001/web/contrib/template.py	/^import os.path$/;"	kind:namespace	line:4
+path	../pro/1001/web/debugerror.py	/^import os, os.path$/;"	kind:namespace	line:28
+path	../pro/1001/web/session.py	/^import os.path$/;"	kind:namespace	line:7
+peep	../pro/1001/web/application.py	/^        def peep(iterator):$/;"	kind:function	line:271
+percent	../pro/1001/web/utils.py	/^    def percent(self, key):$/;"	kind:member	line:197
+pickle	../pro/1001/web/session.py	/^    import cPickle as pickle$/;"	kind:namespace	line:10
+pickle	../pro/1001/web/session.py	/^    import pickle$/;"	kind:namespace	line:12
+pkg_resources	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    import pkg_resources$/;"	kind:namespace	line:107
+pkg_resources	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    import pkg_resources$/;"	kind:namespace	line:105
+plainformat	../pro/1001/web/utils.py	/^   def plainformat(n, lenx):$/;"	kind:function	line:568
+plat_specific_errors	../pro/1001/web/wsgiserver/wsgiserver2.py	/^def plat_specific_errors(*errnames):$/;"	kind:function	line:176
+plat_specific_errors	../pro/1001/web/wsgiserver/wsgiserver3.py	/^def plat_specific_errors(*errnames):$/;"	kind:function	line:162
+pop	../pro/1001/web/utils.py	/^    def pop(self, key, *args):$/;"	kind:member	line:1260
+popitem	../pro/1001/web/utils.py	/^    def popitem(self):$/;"	kind:member	line:1263
+posixpath	../pro/1001/web/httpserver.py	/^import posixpath$/;"	kind:namespace	line:5
+pprint	../pro/1001/web/debugerror.py	/^import sys, pprint, traceback$/;"	kind:namespace	line:13
+pprint	../pro/1001/web/webapi.py	/^import sys, cgi, pprint, urllib$/;"	kind:namespace	line:32
+preconditionfailed	../pro/1001/web/webapi.py	/^preconditionfailed = PreconditionFailed$/;"	kind:variable	line:240
+prefixurl	../pro/1001/web/http.py	/^def prefixurl(base=''):$/;"	kind:function	line:25
+prepare_message	../pro/1001/web/utils.py	/^    def prepare_message(self):$/;"	kind:member	line:1448
+prettify	../pro/1001/web/debugerror.py	/^    def prettify(x):$/;"	kind:function	line:288
+prevent_socket_inheritance	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        def prevent_socket_inheritance(sock):$/;"	kind:function	line:1690
+prevent_socket_inheritance	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        def prevent_socket_inheritance(sock):$/;"	kind:function	line:1694
+prevent_socket_inheritance	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def prevent_socket_inheritance(sock):$/;"	kind:function	line:1699
+prevent_socket_inheritance	../pro/1001/web/wsgiserver/wsgiserver3.py	/^        def prevent_socket_inheritance(sock):$/;"	kind:function	line:1415
+prevent_socket_inheritance	../pro/1001/web/wsgiserver/wsgiserver3.py	/^        def prevent_socket_inheritance(sock):$/;"	kind:function	line:1419
+prevent_socket_inheritance	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def prevent_socket_inheritance(sock):$/;"	kind:function	line:1424
+print_function	../pro/1001/web/application.py	/^from __future__ import print_function$/;"	kind:namespace	line:5
+print_function	../pro/1001/web/db.py	/^from __future__ import print_function$/;"	kind:namespace	line:5
+print_function	../pro/1001/web/httpserver.py	/^from __future__ import print_function$/;"	kind:namespace	line:1
+print_function	../pro/1001/web/template.py	/^from __future__ import print_function$/;"	kind:namespace	line:30
+print_function	../pro/1001/web/utils.py	/^from __future__ import print_function$/;"	kind:namespace	line:6
+print_function	../pro/1001/web/webapi.py	/^from __future__ import print_function$/;"	kind:namespace	line:5
+private_key	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    private_key = None$/;"	kind:variable	line:34
+private_key	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    private_key = None$/;"	kind:variable	line:158
+process	../pro/1001/web/application.py	/^        def process(processors):$/;"	kind:function	line:251
+process_fieldstorage	../pro/1001/web/webapi.py	/^    def process_fieldstorage(fs):$/;"	kind:function	line:348
+processor	../pro/1001/web/application.py	/^    def processor(handler):$/;"	kind:function	line:641
+processor	../pro/1001/web/application.py	/^    def processor(handler):$/;"	kind:function	line:656
+profile	../pro/1001/web/http.py	/^    from utils import profile$/;"	kind:namespace	line:149
+profile	../pro/1001/web/utils.py	/^profile = Profile$/;"	kind:variable	line:1123
+profile_internal	../pro/1001/web/http.py	/^    def profile_internal(e, o):$/;"	kind:function	line:150
+profiler	../pro/1001/web/http.py	/^def profiler(app):$/;"	kind:function	line:147
+protocol	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    protocol = "HTTP\/1.1"$/;"	kind:variable	line:1749
+protocol	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    protocol = "HTTP\/1.1"$/;"	kind:variable	line:1474
+pstats	../pro/1001/web/utils.py	/^        import cProfile, pstats, os, tempfile ##, time already imported$/;"	kind:namespace	line:1095
+psycopg2	../pro/1001/web/db.py	/^            import psycopg2.extensions$/;"	kind:namespace	line:953
+put	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def put(self, obj):$/;"	kind:member	line:1581
+put	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def put(self, obj):$/;"	kind:member	line:1311
+py3helpers.py	../pro/1001/web/py3helpers.py	1;"	kind:file	line:1
+pyOpenSSLAdapter	../pro/1001/web/httpserver.py	/^        from wsgiserver.ssl_pyopenssl import pyOpenSSLAdapter$/;"	kind:namespace	line:207
+pyOpenSSLAdapter	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^class pyOpenSSLAdapter(wsgiserver.SSLAdapter):$/;"	kind:class	line:148
+python	../pro/1001/web/template.py	/^            from token import NAME # python token constants$/;"	kind:namespace	line:291
+python_lookahead	../pro/1001/web/template.py	/^    def python_lookahead(self, text):$/;"	kind:member	line:384
+python_tokens	../pro/1001/web/template.py	/^    def python_tokens(self, text):$/;"	kind:member	line:400
+q	../pro/1001/web/db.py	/^        def q(x): return "(" + x + ")"$/;"	kind:function	line:772
+qsize	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    qsize = property(_get_qsize)$/;"	kind:variable	line:1673
+qsize	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    qsize = property(_get_qsize)$/;"	kind:variable	line:1398
+query	../pro/1001/web/db.py	/^            def query(self, q):$/;"	kind:member	line:438
+query	../pro/1001/web/db.py	/^    def query(self, *a, **kw):$/;"	kind:member	line:1057
+query	../pro/1001/web/db.py	/^    def query(self, paramstyle=None):$/;"	kind:member	line:177
+query	../pro/1001/web/db.py	/^    def query(self, sql_query, vars=None, processed=False, _test=False): $/;"	kind:member	line:643
+queue	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    import Queue as queue$/;"	kind:namespace	line:85
+queue	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    import queue$/;"	kind:namespace	line:83
+queue	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    import Queue as queue$/;"	kind:namespace	line:85
+queue	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    import queue$/;"	kind:namespace	line:83
+quote	../pro/1001/web/application.py	/^    from urllib import splitquery, urlencode, quote, unquote$/;"	kind:namespace	line:27
+quote	../pro/1001/web/application.py	/^    from urllib.parse import splitquery, urlencode, quote, unquote$/;"	kind:namespace	line:25
+quote	../pro/1001/web/net.py	/^    from urllib import quote$/;"	kind:namespace	line:21
+quote	../pro/1001/web/net.py	/^    from urllib.parse import quote$/;"	kind:namespace	line:19
+quote	../pro/1001/web/webapi.py	/^    from urllib import unquote, quote$/;"	kind:namespace	line:41
+quote	../pro/1001/web/webapi.py	/^    from urllib.parse import unquote, quote$/;"	kind:namespace	line:38
+quoted_slash	../pro/1001/web/wsgiserver/wsgiserver2.py	/^quoted_slash = re.compile(ntob("(?i)%2F"))$/;"	kind:variable	line:173
+quoted_slash	../pro/1001/web/wsgiserver/wsgiserver3.py	/^quoted_slash = re.compile(ntob("(?i)%2F"))$/;"	kind:variable	line:159
+r_url	../pro/1001/web/utils.py	/^r_url = re_compile('(?<!\\()(http:\/\/(\\S+))')$/;"	kind:variable	line:1326
+random	../pro/1001/web/session.py	/^import os, time, datetime, random, base64$/;"	kind:namespace	line:6
+random	../pro/1001/web/webopenid.py	/^import random$/;"	kind:namespace	line:23
+rawinput	../pro/1001/web/webapi.py	/^def rawinput(method=None):$/;"	kind:function	line:310
+rbufsize	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    rbufsize = DEFAULT_BUFFER_SIZE$/;"	kind:variable	line:1327
+rbufsize	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    rbufsize = DEFAULT_BUFFER_SIZE$/;"	kind:variable	line:1056
+re	../pro/1001/web/db.py	/^import datetime, time, os, urllib, re$/;"	kind:namespace	line:7
+re	../pro/1001/web/form.py	/^import copy, re$/;"	kind:namespace	line:6
+re	../pro/1001/web/net.py	/^import re$/;"	kind:namespace	line:15
+re	../pro/1001/web/template.py	/^        import re$/;"	kind:namespace	line:651
+re	../pro/1001/web/template.py	/^import re$/;"	kind:namespace	line:43
+re	../pro/1001/web/test.py	/^import sys, re$/;"	kind:namespace	line:5
+re	../pro/1001/web/utils.py	/^import re, sys, time, threading, itertools, traceback, os$/;"	kind:namespace	line:35
+re	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import re$/;"	kind:namespace	line:86
+re	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import re$/;"	kind:namespace	line:86
+re_compile	../pro/1001/web/browser.py	/^from .utils import re_compile$/;"	kind:namespace	line:4
+re_compile	../pro/1001/web/template.py	/^from .utils import storage, safeunicode, safestr, re_compile$/;"	kind:namespace	line:47
+re_compile	../pro/1001/web/utils.py	/^re_compile = memoize(re.compile) #@@ threadsafe?$/;"	kind:variable	line:488
+re_subm	../pro/1001/web/utils.py	/^def re_subm(pat, repl, string):$/;"	kind:function	line:500
+read	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        def read(self, size=-1):$/;"	kind:function	line:1046
+read	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        def read(self, size=-1):$/;"	kind:function	line:1201
+read	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def read(self, size=None):$/;"	kind:member	line:290
+read	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def read(self, size=None):$/;"	kind:member	line:355
+read	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def read(self, size=None):$/;"	kind:member	line:458
+read	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def read(self, size=None):$/;"	kind:member	line:276
+read	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def read(self, size=None):$/;"	kind:member	line:341
+read	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def read(self, size=None):$/;"	kind:member	line:444
+read_assignment	../pro/1001/web/template.py	/^    def read_assignment(self, text):$/;"	kind:member	line:374
+read_block_section	../pro/1001/web/template.py	/^    def read_block_section(self, text, begin_indent=''):$/;"	kind:member	line:444
+read_defwith	../pro/1001/web/template.py	/^    def read_defwith(self, text):$/;"	kind:member	line:93
+read_expr	../pro/1001/web/template.py	/^    def read_expr(self, text, escape=True):$/;"	kind:member	line:248
+read_headers	../pro/1001/web/wsgiserver/wsgiserver2.py	/^def read_headers(rfile, hdict=None):$/;"	kind:function	line:224
+read_headers	../pro/1001/web/wsgiserver/wsgiserver3.py	/^def read_headers(rfile, hdict=None):$/;"	kind:function	line:210
+read_indented_block	../pro/1001/web/template.py	/^    def read_indented_block(self, text, indent):$/;"	kind:member	line:406
+read_keyword	../pro/1001/web/template.py	/^    def read_keyword(self, text):$/;"	kind:member	line:244
+read_node	../pro/1001/web/template.py	/^    def read_node(self, text):$/;"	kind:member	line:206
+read_request_headers	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def read_request_headers(self):$/;"	kind:member	line:742
+read_request_headers	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def read_request_headers(self):$/;"	kind:member	line:731
+read_request_line	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def read_request_line(self):$/;"	kind:member	line:641
+read_request_line	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def read_request_line(self):$/;"	kind:member	line:627
+read_section	../pro/1001/web/template.py	/^    def read_section(self, text):$/;"	kind:member	line:101
+read_statement	../pro/1001/web/template.py	/^    def read_statement(self, text):$/;"	kind:member	line:433
+read_suite	../pro/1001/web/template.py	/^    def read_suite(self, text):$/;"	kind:member	line:169
+read_text	../pro/1001/web/template.py	/^    def read_text(self, text):$/;"	kind:member	line:231
+read_trailer_lines	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def read_trailer_lines(self):$/;"	kind:member	line:519
+read_trailer_lines	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def read_trailer_lines(self):$/;"	kind:member	line:505
+read_var	../pro/1001/web/template.py	/^    def read_var(self, text):$/;"	kind:member	line:131
+readline	../pro/1001/web/template.py	/^    def readline(self, text):$/;"	kind:member	line:182
+readline	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        def readline(self, size=-1):$/;"	kind:function	line:1111
+readline	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        def readline(self, size=-1):$/;"	kind:function	line:1243
+readline	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def readline(self, size=None):$/;"	kind:member	line:296
+readline	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def readline(self, size=None):$/;"	kind:member	line:367
+readline	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def readline(self, size=None):$/;"	kind:member	line:477
+readline	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def readline(self, size=None):$/;"	kind:member	line:282
+readline	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def readline(self, size=None):$/;"	kind:member	line:353
+readline	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def readline(self, size=None):$/;"	kind:member	line:463
+readlines	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def readlines(self, sizehint=0):$/;"	kind:member	line:315
+readlines	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def readlines(self, sizehint=0):$/;"	kind:member	line:379
+readlines	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def readlines(self, sizehint=0):$/;"	kind:member	line:506
+readlines	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def readlines(self, sizehint=0):$/;"	kind:member	line:301
+readlines	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def readlines(self, sizehint=0):$/;"	kind:member	line:365
+readlines	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def readlines(self, sizehint=0):$/;"	kind:member	line:492
+ready	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    ready = False$/;"	kind:variable	line:1478
+ready	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    ready = False$/;"	kind:variable	line:1775
+ready	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    ready = False$/;"	kind:variable	line:576
+ready	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    ready = False$/;"	kind:variable	line:1208
+ready	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    ready = False$/;"	kind:variable	line:1500
+ready	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    ready = False$/;"	kind:variable	line:562
+recv	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def recv(self, size):$/;"	kind:member	line:100
+recv	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def recv(self, size):$/;"	kind:member	line:1034
+redirect	../pro/1001/web/webapi.py	/^redirect = Redirect$/;"	kind:variable	line:105
+regexp	../pro/1001/web/form.py	/^class regexp(Validator):$/;"	kind:class	line:411
+register_database	../pro/1001/web/db.py	/^def register_database(name, clazz):$/;"	kind:function	line:1204
+reload	../pro/1001/web/application.py	/^        from imp import reload #Since Py 3.0 and before 3.4 reload is in imp$/;"	kind:namespace	line:33
+reload_mapping	../pro/1001/web/application.py	/^            def reload_mapping():$/;"	kind:function	line:90
+remote_addr	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    remote_addr = None$/;"	kind:variable	line:1324
+remote_addr	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    remote_addr = None$/;"	kind:variable	line:1053
+remote_port	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    remote_port = None$/;"	kind:variable	line:1325
+remote_port	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    remote_port = None$/;"	kind:variable	line:1054
+render	../pro/1001/web/form.py	/^    def render(self):$/;"	kind:member	line:166
+render	../pro/1001/web/form.py	/^    def render(self):$/;"	kind:member	line:225
+render	../pro/1001/web/form.py	/^    def render(self):$/;"	kind:member	line:243
+render	../pro/1001/web/form.py	/^    def render(self):$/;"	kind:member	line:287
+render	../pro/1001/web/form.py	/^    def render(self):$/;"	kind:member	line:307
+render	../pro/1001/web/form.py	/^    def render(self):$/;"	kind:member	line:345
+render	../pro/1001/web/form.py	/^    def render(self):$/;"	kind:member	line:373
+render	../pro/1001/web/form.py	/^    def render(self):$/;"	kind:member	line:46
+render	../pro/1001/web/template.py	/^render = Render$/;"	kind:variable	line:1067
+render	../pro/1001/webapp.py	/^render = web.template.render(os.path.join(root,'templates\/'))$/;"	kind:variable	line:22
+render_cheetah	../pro/1001/web/contrib/template.py	/^class render_cheetah:$/;"	kind:class	line:11
+render_css	../pro/1001/web/form.py	/^    def render_css(self): $/;"	kind:member	line:60
+render_genshi	../pro/1001/web/contrib/template.py	/^class render_genshi:$/;"	kind:class	line:34
+render_jinja	../pro/1001/web/contrib/template.py	/^class render_jinja:$/;"	kind:class	line:76
+render_mako	../pro/1001/web/contrib/template.py	/^class render_mako:$/;"	kind:class	line:98
+rendernote	../pro/1001/web/form.py	/^    def rendernote(self, note):$/;"	kind:member	line:174
+rendernote	../pro/1001/web/form.py	/^    def rendernote(self, note):$/;"	kind:member	line:73
+reparam	../pro/1001/web/db.py	/^def reparam(string_, dictionary): $/;"	kind:function	line:292
+req	../test/t01.py	/^req=urllib.request.urlopen(url).read()$/;"	kind:variable	line:13
+request	../pro/1001/web/application.py	/^    def request(self, localpart='\/', method='GET', data=None,$/;"	kind:member	line:153
+request	../test/t01.py	/^import urllib.request$/;"	kind:namespace	line:10
+request_queue_size	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    request_queue_size = 5$/;"	kind:variable	line:1755
+request_queue_size	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    request_queue_size = 5$/;"	kind:variable	line:1480
+requeue	../pro/1001/web/utils.py	/^def requeue(queue, index=-1):$/;"	kind:function	line:800
+res	../test/t01.py	/^res = req.decode('UTF-8')$/;"	kind:variable	line:14
+reset	../pro/1001/web/browser.py	/^    def reset(self):$/;"	kind:member	line:65
+respond	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def respond(self):$/;"	kind:member	line:2164
+respond	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def respond(self):$/;"	kind:member	line:2253
+respond	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def respond(self):$/;"	kind:member	line:859
+respond	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def respond(self):$/;"	kind:member	line:1889
+respond	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def respond(self):$/;"	kind:member	line:1978
+respond	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def respond(self):$/;"	kind:member	line:861
+restack	../pro/1001/web/utils.py	/^def restack(stack, index=0):$/;"	kind:function	line:813
+revindex	../pro/1001/web/template.py	/^    revindex = property(lambda self: self.length - self.index + 1)$/;"	kind:variable	line:810
+revindex0	../pro/1001/web/template.py	/^    revindex0 = property(lambda self: self.length - self.index)$/;"	kind:variable	line:809
+rollback	../pro/1001/web/db.py	/^        def rollback():$/;"	kind:function	line:542
+rollback	../pro/1001/web/db.py	/^    def rollback(self):$/;"	kind:member	line:482
+root	../pro/1001/webapp.py	/^root = os.path.dirname(__file__)$/;"	kind:variable	line:19
+rstrips	../pro/1001/web/utils.py	/^def rstrips(text, remove):$/;"	kind:function	line:277
+run	../pro/1001/web/application.py	/^    def run(self, *middleware):$/;"	kind:member	line:331
+run	../pro/1001/web/utils.py	/^                def run(self):$/;"	kind:member	line:392
+run	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def run(self):$/;"	kind:member	line:1519
+run	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def run(self):$/;"	kind:member	line:1249
+runTests	../pro/1001/web/test.py	/^def runTests(suite):$/;"	kind:function	line:55
+run_wsgi_app	../pro/1001/web/application.py	/^                from google.appengine.ext.webapp.util import run_wsgi_app$/;"	kind:namespace	line:401
+run_wsgi_app	../pro/1001/web/application.py	/^            from google.appengine.ext.webapp.util import run_wsgi_app$/;"	kind:namespace	line:360
+run_wsgi_app	../pro/1001/web/httpserver.py	/^        def run_wsgi_app(self):$/;"	kind:member	line:52
+runbasic	../pro/1001/web/httpserver.py	/^def runbasic(func, server_address=("0.0.0.0", 8080)):$/;"	kind:function	line:32
+runfcgi	../pro/1001/web/wsgi.py	/^def runfcgi(func, addr=('localhost', 8000)):$/;"	kind:function	line:14
+runscgi	../pro/1001/web/wsgi.py	/^def runscgi(func, addr=('localhost', 4000)):$/;"	kind:function	line:19
+runsimple	../pro/1001/web/httpserver.py	/^def runsimple(func, server_address=("0.0.0.0", 8080)):$/;"	kind:function	line:158
+runtime	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def runtime(self):$/;"	kind:member	line:1840
+runtime	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def runtime(self):$/;"	kind:member	line:1566
+runwsgi	../pro/1001/web/wsgi.py	/^def runwsgi(func):$/;"	kind:function	line:24
+s2	../sample/c4.py	/^s2 = set([1,2,8,9,0])$/;"	kind:variable	line:49
+safeiter	../pro/1001/web/utils.py	/^def safeiter(it, cleanup=None, ignore_errors=True):$/;"	kind:function	line:703
+safemarkdown	../pro/1001/web/utils.py	/^def safemarkdown(text):$/;"	kind:function	line:1327
+safestr	../pro/1001/web/db.py	/^from .utils import threadeddict, storage, iters, iterbetter, safestr, safeunicode$/;"	kind:namespace	line:6
+safestr	../pro/1001/web/debugerror.py	/^from .utils import sendmail, safestr$/;"	kind:namespace	line:16
+safestr	../pro/1001/web/template.py	/^from .utils import storage, safeunicode, safestr, re_compile$/;"	kind:namespace	line:47
+safestr	../pro/1001/web/utils.py	/^def safestr(obj, encoding='utf-8'):$/;"	kind:function	line:338
+safestr	../pro/1001/web/webapi.py	/^from .utils import storage, storify, threadeddict, dictadd, intget, safestr$/;"	kind:namespace	line:33
+safeunicode	../pro/1001/web/application.py	/^from .utils import lstrips, safeunicode$/;"	kind:namespace	line:11
+safeunicode	../pro/1001/web/db.py	/^from .utils import threadeddict, storage, iters, iterbetter, safestr, safeunicode$/;"	kind:namespace	line:6
+safeunicode	../pro/1001/web/template.py	/^from .utils import storage, safeunicode, safestr, re_compile$/;"	kind:namespace	line:47
+safeunicode	../pro/1001/web/utils.py	/^def safeunicode(obj, encoding='utf-8'):$/;"	kind:function	line:313
+safewrite	../pro/1001/web/utils.py	/^def safewrite(filename, content):$/;"	kind:function	line:719
+seeother	../pro/1001/web/webapi.py	/^seeother = SeeOther$/;"	kind:variable	line:119
+select	../pro/1001/web/db.py	/^    def select(self, tables, vars=None, what='*', where=None, order=None, group=None, $/;"	kind:member	line:685
+select_form	../pro/1001/web/browser.py	/^    def select_form(self, name=None, predicate=None, index=0):$/;"	kind:member	line:184
+send	../pro/1001/web/utils.py	/^    def send(self):$/;"	kind:member	line:1457
+send	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def send(self, *args, **kwargs):$/;"	kind:member	line:107
+send	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def send(self, data):$/;"	kind:member	line:1023
+send_header	../pro/1001/web/httpserver.py	/^    def send_header(self, name, value):$/;"	kind:member	line:236
+send_headers	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def send_headers(self):$/;"	kind:member	line:925
+send_headers	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def send_headers(self):$/;"	kind:member	line:927
+send_response	../pro/1001/web/httpserver.py	/^    def send_response(self, status, msg=""):$/;"	kind:member	line:232
+sendall	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def sendall(self, *args, **kwargs):$/;"	kind:member	line:103
+sendall	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def sendall(self, data):$/;"	kind:member	line:1013
+sendmail	../pro/1001/web/debugerror.py	/^from .utils import sendmail, safestr$/;"	kind:namespace	line:16
+sendmail	../pro/1001/web/utils.py	/^def sendmail(from_address, to_address, subject, message, headers=None, **kw):$/;"	kind:function	line:1343
+server	../pro/1001/web/httpserver.py	/^server = None$/;"	kind:variable	line:156
+server	../pro/1001/web/wsgi.py	/^    import flup.server.fcgi as flups$/;"	kind:namespace	line:16
+server	../pro/1001/web/wsgi.py	/^    import flup.server.scgi as flups$/;"	kind:namespace	line:21
+server	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    server = None$/;"	kind:variable	line:1474
+server	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    server = None$/;"	kind:variable	line:564
+server	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    server = None$/;"	kind:variable	line:1204
+server	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    server = None$/;"	kind:variable	line:550
+server_name	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    server_name = None$/;"	kind:variable	line:1746
+server_name	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    server_name = None$/;"	kind:variable	line:1471
+ses	../pro/1001/web/utils.py	/^            import boto.ses$/;"	kind:namespace	line:1491
+session	../pro/1001/web/__init__.py	/^from . import session$/;"	kind:namespace	line:17
+session.py	../pro/1001/web/session.py	1;"	kind:file	line:1
+sessions	../pro/1001/web/webopenid.py	/^sessions = {}$/;"	kind:variable	line:29
+set	../pro/1001/web/http.py	/^        from __builtin__ import set$/;"	kind:namespace	line:70
+set	../pro/1001/web/http.py	/^        from sets import Set as set$/;"	kind:namespace	line:73
+set_value	../pro/1001/web/form.py	/^    def set_value(self, value):$/;"	kind:member	line:160
+set_value	../pro/1001/web/form.py	/^    def set_value(self, value):$/;"	kind:member	line:355
+setcookie	../pro/1001/web/webapi.py	/^def setcookie(name, value, expires='', domain=None,$/;"	kind:function	line:378
+setdefault	../pro/1001/web/utils.py	/^    def setdefault(self, key, default=None):$/;"	kind:member	line:1266
+setup	../pro/1001/web/template.py	/^    def setup(self, seq):        $/;"	kind:member	line:774
+setup	../pro/1001/web/template.py	/^    def setup(self, seq):$/;"	kind:member	line:791
+sha1	../pro/1001/web/session.py	/^from hashlib import sha1$/;"	kind:namespace	line:14
+show	../pro/1001/web/browser.py	/^    def show(self):$/;"	kind:member	line:102
+shrink	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def shrink(self, amount):$/;"	kind:member	line:1612
+shrink	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def shrink(self, amount):$/;"	kind:member	line:1337
+shutdown	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def shutdown(self, *args):$/;"	kind:function	line:139
+shutdown_timeout	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    shutdown_timeout = 5$/;"	kind:variable	line:1760
+shutdown_timeout	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    shutdown_timeout = 5$/;"	kind:variable	line:1485
+simple_expr	../pro/1001/web/template.py	/^        def simple_expr():$/;"	kind:function	line:271
+simple_response	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def simple_response(self, status, msg=""):$/;"	kind:member	line:883
+simple_response	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def simple_response(self, status, msg=""):$/;"	kind:member	line:885
+smtplib	../pro/1001/web/utils.py	/^            import smtplib$/;"	kind:namespace	line:1474
+socket	../pro/1001/web/httpserver.py	/^    import socket, errno$/;"	kind:namespace	line:48
+socket	../pro/1001/web/net.py	/^import socket$/;"	kind:namespace	line:16
+socket	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^import socket$/;"	kind:namespace	line:33
+socket	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import socket$/;"	kind:namespace	line:88
+socket	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import socket$/;"	kind:namespace	line:88
+socket_error_eintr	../pro/1001/web/wsgiserver/wsgiserver2.py	/^socket_error_eintr = plat_specific_errors("EINTR", "WSAEINTR")$/;"	kind:variable	line:188
+socket_error_eintr	../pro/1001/web/wsgiserver/wsgiserver3.py	/^socket_error_eintr = plat_specific_errors("EINTR", "WSAEINTR")$/;"	kind:variable	line:174
+socket_errors_nonblocking	../pro/1001/web/wsgiserver/wsgiserver2.py	/^socket_errors_nonblocking = plat_specific_errors($/;"	kind:variable	line:206
+socket_errors_nonblocking	../pro/1001/web/wsgiserver/wsgiserver3.py	/^socket_errors_nonblocking = plat_specific_errors($/;"	kind:variable	line:192
+socket_errors_to_ignore	../pro/1001/web/wsgiserver/wsgiserver2.py	/^socket_errors_to_ignore = plat_specific_errors($/;"	kind:variable	line:190
+socket_errors_to_ignore	../pro/1001/web/wsgiserver/wsgiserver3.py	/^socket_errors_to_ignore = plat_specific_errors($/;"	kind:variable	line:176
+software	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    software = None$/;"	kind:variable	line:1770
+software	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    software = None$/;"	kind:variable	line:1495
+sorted_items	../pro/1001/web/utils.py	/^    def sorted_items(self):$/;"	kind:member	line:236
+sorted_keys	../pro/1001/web/utils.py	/^    def sorted_keys(self):$/;"	kind:member	line:212
+sorted_values	../pro/1001/web/utils.py	/^    def sorted_values(self):$/;"	kind:member	line:224
+splitline	../pro/1001/web/template.py	/^def splitline(text):$/;"	kind:function	line:61
+splitquery	../pro/1001/web/application.py	/^    from urllib import splitquery, urlencode, quote, unquote$/;"	kind:namespace	line:27
+splitquery	../pro/1001/web/application.py	/^    from urllib.parse import splitquery, urlencode, quote, unquote$/;"	kind:namespace	line:25
+sql_clauses	../pro/1001/web/db.py	/^    def sql_clauses(self, what, tables, where, group, order, limit, offset): $/;"	kind:member	line:1116
+sql_clauses	../pro/1001/web/db.py	/^    def sql_clauses(self, what, tables, where, group, order, limit, offset): $/;"	kind:member	line:725
+sql_clauses	../pro/1001/web/db.py	/^    def sql_clauses(self, what, tables, where, group, order, limit, offset):$/;"	kind:member	line:1085
+sqlify	../pro/1001/web/db.py	/^def sqlify(obj): $/;"	kind:function	line:315
+sqllist	../pro/1001/web/db.py	/^def sqllist(lst): $/;"	kind:function	line:345
+sqlliteral	../pro/1001/web/db.py	/^sqlliteral = SQLLiteral$/;"	kind:variable	line:276
+sqlors	../pro/1001/web/db.py	/^def sqlors(left, lst):$/;"	kind:function	line:359
+sqlparam	../pro/1001/web/db.py	/^sqlparam =  SQLParam$/;"	kind:variable	line:102
+sqlquery	../pro/1001/web/db.py	/^    def sqlquery(self): $/;"	kind:member	line:87
+sqlquote	../pro/1001/web/db.py	/^def sqlquote(a): $/;"	kind:function	line:405
+sqlwhere	../pro/1001/web/db.py	/^def sqlwhere(data, grouping=' AND '):$/;"	kind:function	line:391
+ss	../sample/c4.py	/^ss = set([1,2,3])$/;"	kind:variable	line:39
+ssl	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    import ssl$/;"	kind:namespace	line:10
+ssl	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    ssl = None$/;"	kind:variable	line:12
+ssl_adapter	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    ssl_adapter = None$/;"	kind:variable	line:1791
+ssl_adapter	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    ssl_adapter = None$/;"	kind:variable	line:1517
+ssl_adapters	../pro/1001/web/wsgiserver/wsgiserver2.py	/^ssl_adapters = {$/;"	kind:variable	line:2171
+ssl_adapters	../pro/1001/web/wsgiserver/wsgiserver3.py	/^ssl_adapters = {$/;"	kind:variable	line:1896
+ssl_builtin.py	../pro/1001/web/wsgiserver/ssl_builtin.py	1;"	kind:file	line:1
+ssl_env	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    ssl_env = None$/;"	kind:variable	line:1326
+ssl_env	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    ssl_env = None$/;"	kind:variable	line:1055
+ssl_pyopenssl.py	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	1;"	kind:file	line:1
+ssl_retry	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    ssl_retry = .01$/;"	kind:variable	line:51
+ssl_timeout	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    ssl_timeout = 3$/;"	kind:variable	line:50
+start	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def start(self):$/;"	kind:member	line:1565
+start	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def start(self):$/;"	kind:member	line:1883
+start	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def start(self):$/;"	kind:member	line:1295
+start	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def start(self):$/;"	kind:member	line:1609
+start_response	../pro/1001/web/application.py	/^        def start_response(status, headers):$/;"	kind:function	line:234
+start_response	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def start_response(self, status, headers, exc_info=None):$/;"	kind:member	line:2272
+start_response	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def start_response(self, status, headers, exc_info=None):$/;"	kind:member	line:1997
+status	../pro/1001/web/webopenid.py	/^def status():$/;"	kind:function	line:51
+stop	../pro/1001/web/application.py	/^    def stop(self):$/;"	kind:member	line:343
+stop	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def stop(self):$/;"	kind:member	line:2109
+stop	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def stop(self, timeout=5):$/;"	kind:member	line:1633
+stop	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def stop(self):$/;"	kind:member	line:1834
+stop	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def stop(self, timeout=5):$/;"	kind:member	line:1358
+storage	../pro/1001/web/db.py	/^from .utils import threadeddict, storage, iters, iterbetter, safestr, safeunicode$/;"	kind:namespace	line:6
+storage	../pro/1001/web/template.py	/^from .utils import storage, safeunicode, safestr, re_compile$/;"	kind:namespace	line:47
+storage	../pro/1001/web/utils.py	/^storage = Storage$/;"	kind:variable	line:86
+storage	../pro/1001/web/webapi.py	/^from .utils import storage, storify, threadeddict, dictadd, intget, safestr$/;"	kind:namespace	line:33
+store	../pro/1001/web/webopenid.py	/^import openid.store.memstore$/;"	kind:namespace	line:27
+store	../pro/1001/web/webopenid.py	/^store = openid.store.memstore.MemoryStore()$/;"	kind:variable	line:30
+storify	../pro/1001/web/utils.py	/^def storify(mapping, *requireds, **defaults):$/;"	kind:function	line:88
+storify	../pro/1001/web/webapi.py	/^from .utils import storage, storify, threadeddict, dictadd, intget, safestr$/;"	kind:namespace	line:33
+string_types	../pro/1001/web/application.py	/^from .py3helpers import iteritems, string_types, is_iter, PY2, text_type$/;"	kind:namespace	line:12
+string_types	../pro/1001/web/db.py	/^from .py3helpers import PY2, string_types, numeric_types, iteritems$/;"	kind:namespace	line:9
+string_types	../pro/1001/web/py3helpers.py	/^    string_types = (str, unicode)$/;"	kind:variable	line:26
+string_types	../pro/1001/web/py3helpers.py	/^    string_types = (str,)$/;"	kind:variable	line:30
+string_types	../pro/1001/web/utils.py	/^from .py3helpers import PY2, itervalues, iteritems, text_type, string_types, imap, is_iter$/;"	kind:namespace	line:41
+string_types	../pro/1001/web/webapi.py	/^from .py3helpers import PY2, urljoin, string_types$/;"	kind:namespace	line:35
+strips	../pro/1001/web/utils.py	/^def strips(text, remove):$/;"	kind:function	line:303
+stu	../sample/c4.py	/^stu = {"zhang":16, "li":17, "wang":18} # 声明$/;"	kind:variable	line:13
+su	../sample/c3.py	/^    su = su +n$/;"	kind:variable	line:139
+su	../sample/c3.py	/^su = 0$/;"	kind:variable	line:136
+subdir_application	../pro/1001/web/application.py	/^subdir_application = application$/;"	kind:variable	line:595
+subdomain_application	../pro/1001/web/application.py	/^class subdomain_application(application):$/;"	kind:class	line:597
+submit	../pro/1001/web/browser.py	/^    def submit(self, **kw):$/;"	kind:member	line:199
+subprocess	../pro/1001/web/utils.py	/^import subprocess$/;"	kind:namespace	line:37
+subtransaction_engine	../pro/1001/web/db.py	/^        class subtransaction_engine:$/;"	kind:class	line:436
+suite	../pro/1001/web/test.py	/^def suite(module_names):$/;"	kind:function	line:48
+sum	../sample/c3.py	/^    sum = sum + x$/;"	kind:variable	line:132
+sum	../sample/c3.py	/^sum = 0$/;"	kind:variable	line:130
+super	../pro/1001/web/template.py	/^    super = Render$/;"	kind:variable	line:1044
+sys	../pro/1001/web/application.py	/^import sys$/;"	kind:namespace	line:13
+sys	../pro/1001/web/db.py	/^    import sys$/;"	kind:namespace	line:22
+sys	../pro/1001/web/debugerror.py	/^import sys, pprint, traceback$/;"	kind:namespace	line:13
+sys	../pro/1001/web/http.py	/^import sys, os, threading, urllib$/;"	kind:namespace	line:13
+sys	../pro/1001/web/httpserver.py	/^import sys, os$/;"	kind:namespace	line:3
+sys	../pro/1001/web/py3helpers.py	/^import sys$/;"	kind:namespace	line:3
+sys	../pro/1001/web/template.py	/^    import sys$/;"	kind:namespace	line:1536
+sys	../pro/1001/web/template.py	/^import sys$/;"	kind:namespace	line:41
+sys	../pro/1001/web/test.py	/^import sys, re$/;"	kind:namespace	line:5
+sys	../pro/1001/web/utils.py	/^import re, sys, time, threading, itertools, traceback, os$/;"	kind:namespace	line:35
+sys	../pro/1001/web/webapi.py	/^import sys, cgi, pprint, urllib$/;"	kind:namespace	line:32
+sys	../pro/1001/web/wsgi.py	/^import os, sys$/;"	kind:namespace	line:6
+sys	../pro/1001/web/wsgiserver/__init__.py	/^import sys$/;"	kind:namespace	line:9
+sys	../pro/1001/web/wsgiserver/ssl_builtin.py	/^import sys$/;"	kind:namespace	line:22
+sys	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import sys$/;"	kind:namespace	line:89
+sys	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import sys$/;"	kind:namespace	line:89
+t01.py	../test/t01.py	1;"	kind:file	line:1
+take	../pro/1001/web/utils.py	/^    def take(seq, n):$/;"	kind:function	line:524
+tempfile	../pro/1001/web/utils.py	/^        import cProfile, pstats, os, tempfile ##, time already imported$/;"	kind:namespace	line:1095
+template	../pro/1001/web/__init__.py	/^from . import template, form$/;"	kind:namespace	line:15
+template	../pro/1001/web/contrib/template.py	/^        def template(**kw):$/;"	kind:function	line:28
+template	../pro/1001/web/contrib/template.py	/^        def template(**kw):$/;"	kind:function	line:68
+template	../pro/1001/web/template.py	/^            def template(*a, **kw):$/;"	kind:function	line:1036
+template.py	../pro/1001/web/contrib/template.py	1;"	kind:file	line:1
+template.py	../pro/1001/web/template.py	1;"	kind:file	line:1
+tempredirect	../pro/1001/web/webapi.py	/^tempredirect = TempRedirect$/;"	kind:variable	line:133
+test	../pro/1001/web/template.py	/^def test():$/;"	kind:function	line:1324
+test.py	../pro/1001/web/test.py	1;"	kind:file	line:1
+text_type	../pro/1001/web/application.py	/^from .py3helpers import iteritems, string_types, is_iter, PY2, text_type$/;"	kind:namespace	line:12
+text_type	../pro/1001/web/py3helpers.py	/^    text_type = str$/;"	kind:variable	line:29
+text_type	../pro/1001/web/py3helpers.py	/^    text_type = unicode$/;"	kind:variable	line:25
+text_type	../pro/1001/web/utils.py	/^from .py3helpers import PY2, itervalues, iteritems, text_type, string_types, imap, is_iter$/;"	kind:namespace	line:41
+threadeddict	../pro/1001/web/db.py	/^from .utils import threadeddict, storage, iters, iterbetter, safestr, safeunicode$/;"	kind:namespace	line:6
+threadeddict	../pro/1001/web/utils.py	/^threadeddict = ThreadedDict$/;"	kind:variable	line:1277
+threadeddict	../pro/1001/web/webapi.py	/^from .utils import storage, storify, threadeddict, dictadd, intget, safestr$/;"	kind:namespace	line:33
+threading	../pro/1001/web/http.py	/^import sys, os, threading, urllib$/;"	kind:namespace	line:13
+threading	../pro/1001/web/utils.py	/^import re, sys, time, threading, itertools, traceback, os$/;"	kind:namespace	line:35
+threading	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^import threading$/;"	kind:namespace	line:34
+threading	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import threading$/;"	kind:namespace	line:90
+threading	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import threading$/;"	kind:namespace	line:90
+threadlocal	../pro/1001/web/utils.py	/^from threading import local as threadlocal$/;"	kind:namespace	line:39
+tick	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def tick(self):$/;"	kind:member	line:2005
+tick	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def tick(self):$/;"	kind:member	line:1730
+time	../pro/1001/web/db.py	/^import datetime, time, os, urllib, re$/;"	kind:namespace	line:7
+time	../pro/1001/web/net.py	/^import urllib, time$/;"	kind:namespace	line:13
+time	../pro/1001/web/session.py	/^import os, time, datetime, random, base64$/;"	kind:namespace	line:6
+time	../pro/1001/web/utils.py	/^        import cProfile, pstats, os, tempfile ##, time already imported$/;"	kind:namespace	line:1095
+time	../pro/1001/web/utils.py	/^import re, sys, time, threading, itertools, traceback, os$/;"	kind:namespace	line:35
+time	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^import time$/;"	kind:namespace	line:35
+time	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import time$/;"	kind:namespace	line:91
+time	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import time$/;"	kind:namespace	line:91
+timelimit	../pro/1001/web/utils.py	/^def timelimit(timeout):$/;"	kind:function	line:359
+timeout	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    timeout = 10$/;"	kind:variable	line:1764
+timeout	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    timeout = 10$/;"	kind:variable	line:1489
+to36	../pro/1001/web/utils.py	/^def to36(q):$/;"	kind:function	line:1299
+token	../pro/1001/web/template.py	/^            from token import NAME # python token constants$/;"	kind:namespace	line:291
+tokenize	../pro/1001/web/template.py	/^import tokenize$/;"	kind:namespace	line:39
+tokenprog	../pro/1001/web/db.py	/^tokenprog = re.compile(TOKEN)$/;"	kind:variable	line:36
+traceback	../pro/1001/web/application.py	/^import traceback$/;"	kind:namespace	line:16
+traceback	../pro/1001/web/debugerror.py	/^import sys, pprint, traceback$/;"	kind:namespace	line:13
+traceback	../pro/1001/web/httpserver.py	/^    import traceback$/;"	kind:namespace	line:49
+traceback	../pro/1001/web/utils.py	/^import re, sys, time, threading, itertools, traceback, os$/;"	kind:namespace	line:35
+traceback	../pro/1001/web/utils.py	/^import traceback$/;"	kind:namespace	line:1126
+traceback_	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import traceback as traceback_$/;"	kind:namespace	line:92
+traceback_	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import traceback as traceback_$/;"	kind:namespace	line:92
+transaction	../pro/1001/web/db.py	/^    def transaction(self): $/;"	kind:member	line:941
+transaction_engine	../pro/1001/web/db.py	/^        class transaction_engine:$/;"	kind:class	line:425
+trueyzero	../pro/1001/web/wsgiserver/wsgiserver2.py	/^trueyzero = TrueyZero()$/;"	kind:variable	line:1455
+trueyzero	../pro/1001/web/wsgiserver/wsgiserver3.py	/^trueyzero = TrueyZero()$/;"	kind:variable	line:1185
+tryall	../pro/1001/web/utils.py	/^def tryall(context, prefix=None):$/;"	kind:function	line:1136
+tu	../sample/c3.py	/^tu = ("zhang", "Li", "Xiao")$/;"	kind:variable	line:46
+tu2	../sample/c3.py	/^tu2 =(1,)$/;"	kind:variable	line:51
+types	../pro/1001/web/application.py	/^import types$/;"	kind:namespace	line:19
+types	../pro/1001/web/httpserver.py	/^        import types$/;"	kind:namespace	line:201
+types	../pro/1001/web/template.py	/^        import types$/;"	kind:namespace	line:1048
+types	../pro/1001/web/template.py	/^        import types$/;"	kind:namespace	line:1061
+unauthorized	../pro/1001/web/webapi.py	/^unauthorized = Unauthorized$/;"	kind:variable	line:153
+unavailableforlegalreasons	../pro/1001/web/webapi.py	/^unavailableforlegalreasons = UnavailableForLegalReasons$/;"	kind:variable	line:270
+unicodestr	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    unicodestr = str$/;"	kind:variable	line:140
+unicodestr	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    unicodestr = unicode$/;"	kind:variable	line:150
+unicodestr	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    unicodestr = str$/;"	kind:variable	line:126
+unicodestr	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    unicodestr = unicode$/;"	kind:variable	line:136
+unicodify	../pro/1001/web/utils.py	/^    def unicodify(s):$/;"	kind:function	line:128
+uniq	../pro/1001/web/utils.py	/^def uniq(seq, key=None):$/;"	kind:function	line:537
+unittest	../pro/1001/web/test.py	/^import unittest, doctest$/;"	kind:namespace	line:4
+unloadhook	../pro/1001/web/application.py	/^def unloadhook(h):$/;"	kind:function	line:647
+unquote	../pro/1001/web/application.py	/^    from urllib import splitquery, urlencode, quote, unquote$/;"	kind:namespace	line:27
+unquote	../pro/1001/web/application.py	/^    from urllib.parse import splitquery, urlencode, quote, unquote$/;"	kind:namespace	line:25
+unquote	../pro/1001/web/db.py	/^    from urllib import unquote$/;"	kind:namespace	line:16
+unquote	../pro/1001/web/db.py	/^    from urllib.parse import unquote$/;"	kind:namespace	line:13
+unquote	../pro/1001/web/httpserver.py	/^    from urllib import unquote$/;"	kind:namespace	line:23
+unquote	../pro/1001/web/httpserver.py	/^    from urllib.parse import unquote$/;"	kind:namespace	line:20
+unquote	../pro/1001/web/webapi.py	/^    from urllib import unquote, quote$/;"	kind:namespace	line:41
+unquote	../pro/1001/web/webapi.py	/^    from urllib.parse import unquote, quote$/;"	kind:namespace	line:38
+unquote	../pro/1001/web/wsgiserver/wsgiserver2.py	/^from urllib import unquote$/;"	kind:namespace	line:94
+unquote_bytes	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def unquote_bytes(self, path):$/;"	kind:member	line:849
+unsupportedmediatype	../pro/1001/web/webapi.py	/^unsupportedmediatype = UnsupportedMediaType$/;"	kind:variable	line:250
+update	../pro/1001/web/db.py	/^    def update(self, tables, where, vars=None, _test=False, **values): $/;"	kind:member	line:880
+update	../pro/1001/web/utils.py	/^        def update(block=False):$/;"	kind:function	line:470
+update	../pro/1001/web/utils.py	/^    def update(self, *args, **kwargs):$/;"	kind:member	line:1269
+update_globals_template	../pro/1001/web/debugerror.py	/^    def update_globals_template(t, globals):$/;"	kind:function	line:21
+update_globals_template	../pro/1001/web/debugerror.py	/^    def update_globals_template(t, globals):$/;"	kind:function	line:24
+url	../pro/1001/web/http.py	/^def url(path=None, doseq=False, **kw):$/;"	kind:function	line:130
+urlencode	../pro/1001/web/application.py	/^    from urllib import splitquery, urlencode, quote, unquote$/;"	kind:namespace	line:27
+urlencode	../pro/1001/web/application.py	/^    from urllib.parse import splitquery, urlencode, quote, unquote$/;"	kind:namespace	line:25
+urlencode	../pro/1001/web/http.py	/^def urlencode(query, doseq=0):$/;"	kind:function	line:94
+urljoin	../pro/1001/web/browser.py	/^    from urllib.parse import urljoin$/;"	kind:namespace	line:29
+urljoin	../pro/1001/web/browser.py	/^    from urlparse import urljoin$/;"	kind:namespace	line:38
+urljoin	../pro/1001/web/debugerror.py	/^from .py3helpers import urljoin, PY2$/;"	kind:namespace	line:18
+urljoin	../pro/1001/web/py3helpers.py	/^    from urllib.parse import urljoin$/;"	kind:namespace	line:11
+urljoin	../pro/1001/web/py3helpers.py	/^    from urlparse import urljoin$/;"	kind:namespace	line:9
+urljoin	../pro/1001/web/webapi.py	/^from .py3helpers import PY2, urljoin, string_types$/;"	kind:namespace	line:35
+urllib	../pro/1001/web/application.py	/^import urllib$/;"	kind:namespace	line:15
+urllib	../pro/1001/web/db.py	/^import datetime, time, os, urllib, re$/;"	kind:namespace	line:7
+urllib	../pro/1001/web/http.py	/^import sys, os, threading, urllib$/;"	kind:namespace	line:13
+urllib	../pro/1001/web/httpserver.py	/^import urllib$/;"	kind:namespace	line:4
+urllib	../pro/1001/web/net.py	/^import urllib, time$/;"	kind:namespace	line:13
+urllib	../pro/1001/web/webapi.py	/^import sys, cgi, pprint, urllib$/;"	kind:namespace	line:32
+urllib	../test/t01.py	/^import urllib.request$/;"	kind:namespace	line:10
+urllib_build_opener	../pro/1001/web/browser.py	/^    from urllib.request import build_opener as urllib_build_opener$/;"	kind:namespace	line:28
+urllib_build_opener	../pro/1001/web/browser.py	/^    from urllib2 import build_opener as urllib_build_opener$/;"	kind:namespace	line:36
+urllib_urlencode	../pro/1001/web/http.py	/^    from urllib import urlencode as urllib_urlencode$/;"	kind:namespace	line:22
+urllib_urlencode	../pro/1001/web/http.py	/^    from urllib.parse import urlencode as urllib_urlencode$/;"	kind:namespace	line:20
+urlparse	../pro/1001/web/db.py	/^    from urllib import parse as urlparse$/;"	kind:namespace	line:12
+urlparse	../pro/1001/web/db.py	/^    import urlparse$/;"	kind:namespace	line:15
+urlparse	../pro/1001/web/httpserver.py	/^    from urllib import parse as urlparse$/;"	kind:namespace	line:19
+urlparse	../pro/1001/web/httpserver.py	/^    import urlparse$/;"	kind:namespace	line:22
+urlparse	../pro/1001/web/wsgiserver/wsgiserver2.py	/^from urlparse import urlparse$/;"	kind:namespace	line:95
+urlparse	../pro/1001/web/wsgiserver/wsgiserver3.py	/^from urllib.parse import urlparse$/;"	kind:namespace	line:95
+urlquote	../pro/1001/web/net.py	/^def urlquote(val):$/;"	kind:function	line:160
+urls	../pro/1001/webapp.py	/^urls = ($/;"	kind:variable	line:14
+utils	../pro/1001/web/__init__.py	/^from . import utils, db, net, wsgi, http, webapi, httpserver, debugerror$/;"	kind:namespace	line:14
+utils	../pro/1001/web/application.py	/^from . import webapi, wsgi, utils, browser$/;"	kind:namespace	line:8
+utils	../pro/1001/web/form.py	/^from . import utils, net, webapi as web$/;"	kind:namespace	line:7
+utils	../pro/1001/web/http.py	/^from . import net, utils, webapi as web$/;"	kind:namespace	line:15
+utils	../pro/1001/web/httpserver.py	/^from . import utils$/;"	kind:namespace	line:9
+utils	../pro/1001/web/session.py	/^from . import utils$/;"	kind:namespace	line:16
+utils	../pro/1001/web/utils.py	/^        import email.utils$/;"	kind:namespace	line:1398
+utils	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import email.utils$/;"	kind:namespace	line:87
+utils	../pro/1001/web/wsgiserver/wsgiserver3.py	/^import email.utils$/;"	kind:namespace	line:87
+utils.py	../pro/1001/web/utils.py	1;"	kind:file	line:1
+valid	../pro/1001/web/form.py	/^    def valid(self, value): $/;"	kind:member	line:405
+valid	../pro/1001/web/form.py	/^    def valid(self, value):$/;"	kind:member	line:416
+validaddr	../pro/1001/web/net.py	/^def validaddr(string_):$/;"	kind:function	line:136
+validaddr	../pro/1001/web/wsgi.py	/^from .net import validaddr, validip$/;"	kind:namespace	line:11
+validate	../pro/1001/web/form.py	/^    def validate(self, value):$/;"	kind:member	line:151
+validates	../pro/1001/web/form.py	/^    def validates(self, source=None, _validate=True, **kw):$/;"	kind:member	line:77
+validip	../pro/1001/web/net.py	/^def validip(ip, defaultaddr="0.0.0.0", defaultport=8080):$/;"	kind:function	line:85
+validip	../pro/1001/web/wsgi.py	/^from .net import validaddr, validip$/;"	kind:namespace	line:11
+validip6addr	../pro/1001/web/net.py	/^def validip6addr(address):$/;"	kind:function	line:25
+validipaddr	../pro/1001/web/net.py	/^def validipaddr(address):$/;"	kind:function	line:45
+validipport	../pro/1001/web/net.py	/^def validipport(port):$/;"	kind:function	line:67
+values	../pro/1001/web/db.py	/^    def values(self):$/;"	kind:member	line:201
+values	../pro/1001/web/utils.py	/^    def values(self):$/;"	kind:member	line:1254
+version	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    version = "CherryPy\/" + cp_version$/;"	kind:variable	line:1767
+version	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    version = "CherryPy\/" + cp_version$/;"	kind:variable	line:1492
+visit_Assign	../pro/1001/web/template.py	/^    def visit_Assign(self, node):$/;"	kind:member	line:1181
+visit_Attribute	../pro/1001/web/template.py	/^    def visit_Attribute(self, node):$/;"	kind:member	line:1175
+visit_AugAssign	../pro/1001/web/template.py	/^    def visit_AugAssign(self, node):$/;"	kind:member	line:1184
+w	../sample/c3.py	/^w = 84$/;"	kind:variable	line:102
+walk	../pro/1001/web/template.py	/^    def walk(self, tree, filename):$/;"	kind:member	line:1162
+warnings	../pro/1001/web/template.py	/^import warnings$/;"	kind:namespace	line:44
+warnings	../pro/1001/web/wsgiserver/wsgiserver2.py	/^import warnings$/;"	kind:namespace	line:96
+wbufsize	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    wbufsize = DEFAULT_BUFFER_SIZE$/;"	kind:variable	line:1328
+wbufsize	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    wbufsize = DEFAULT_BUFFER_SIZE$/;"	kind:variable	line:1057
+web	../pro/1001/web/application.py	/^from . import webapi as web$/;"	kind:namespace	line:7
+web	../pro/1001/web/debugerror.py	/^from . import webapi as web$/;"	kind:namespace	line:17
+web	../pro/1001/web/form.py	/^from . import utils, net, webapi as web$/;"	kind:namespace	line:7
+web	../pro/1001/web/http.py	/^from . import net, utils, webapi as web$/;"	kind:namespace	line:15
+web	../pro/1001/web/httpserver.py	/^from . import webapi as web$/;"	kind:namespace	line:7
+web	../pro/1001/web/session.py	/^from . import webapi as web$/;"	kind:namespace	line:17
+web	../pro/1001/web/template.py	/^        from . import webapi as web$/;"	kind:namespace	line:900
+web	../pro/1001/web/test.py	/^import web$/;"	kind:namespace	line:6
+web	../pro/1001/web/webopenid.py	/^import __init__ as web$/;"	kind:namespace	line:25
+web	../pro/1001/web/wsgi.py	/^from . import webapi as web$/;"	kind:namespace	line:9
+web	../pro/1001/webapp.py	/^import web$/;"	kind:namespace	line:3
+webapi	../pro/1001/web/__init__.py	/^from . import utils, db, net, wsgi, http, webapi, httpserver, debugerror$/;"	kind:namespace	line:14
+webapi	../pro/1001/web/application.py	/^from . import webapi, wsgi, utils, browser$/;"	kind:namespace	line:8
+webapi	../pro/1001/web/utils.py	/^            from . import webapi$/;"	kind:namespace	line:1459
+webapi.py	../pro/1001/web/webapi.py	1;"	kind:file	line:1
+webapp.py	../pro/1001/webapp.py	1;"	kind:file	line:1
+webbrowser	../pro/1001/web/browser.py	/^        import webbrowser, os$/;"	kind:namespace	line:108
+webopenid.py	../pro/1001/web/webopenid.py	1;"	kind:file	line:1
+websafe	../pro/1001/web/debugerror.py	/^from .net import websafe$/;"	kind:namespace	line:15
+websafe	../pro/1001/web/net.py	/^def websafe(val):$/;"	kind:function	line:233
+websafe	../pro/1001/web/template.py	/^from .net import websafe$/;"	kind:namespace	line:49
+where	../pro/1001/web/db.py	/^    def where(self, table, what='*', order=None, group=None, limit=None, $/;"	kind:member	line:707
+whereami	../pro/1001/web/debugerror.py	/^whereami = os.path.join(os.getcwd(), __file__)$/;"	kind:variable	line:29
+whereami	../pro/1001/web/debugerror.py	/^whereami = os.path.sep.join(whereami.split(os.path.sep)[:-1])$/;"	kind:variable	line:30
+windll	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        from ctypes import windll, WinError$/;"	kind:namespace	line:1680
+windll	../pro/1001/web/wsgiserver/wsgiserver3.py	/^        from ctypes import windll, WinError$/;"	kind:namespace	line:1405
+wintypes	../pro/1001/web/wsgiserver/wsgiserver2.py	/^        import ctypes.wintypes$/;"	kind:namespace	line:1681
+wintypes	../pro/1001/web/wsgiserver/wsgiserver3.py	/^        import ctypes.wintypes$/;"	kind:namespace	line:1406
+with_metaclass	../pro/1001/web/application.py	/^def with_metaclass(mcls):$/;"	kind:function	line:549
+wrap	../pro/1001/web/application.py	/^    def wrap(result):$/;"	kind:function	line:671
+wrap	../pro/1001/web/wsgiserver/ssl_builtin.py	/^    def wrap(self, sock):$/;"	kind:member	line:62
+wrap	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^    def wrap(self, sock):$/;"	kind:member	line:185
+wrap	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def wrap(self, sock):$/;"	kind:member	line:1722
+wrap	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def wrap(self, sock):$/;"	kind:member	line:1447
+write	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def write(self, chunk):$/;"	kind:member	line:2304
+write	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    def write(self, chunk):$/;"	kind:member	line:917
+write	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def write(self, b):$/;"	kind:member	line:1015
+write	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def write(self, chunk):$/;"	kind:member	line:2037
+write	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    def write(self, chunk):$/;"	kind:member	line:919
+wsgi	../pro/1001/web/__init__.py	/^from . import utils, db, net, wsgi, http, webapi, httpserver, debugerror$/;"	kind:namespace	line:14
+wsgi	../pro/1001/web/application.py	/^        def wsgi(env, start_resp):$/;"	kind:function	line:285
+wsgi	../pro/1001/web/application.py	/^from . import webapi, wsgi, utils, browser$/;"	kind:namespace	line:8
+wsgi.py	../pro/1001/web/wsgi.py	1;"	kind:file	line:1
+wsgi_gateways	../pro/1001/web/wsgiserver/wsgiserver2.py	/^wsgi_gateways = {$/;"	kind:variable	line:2430
+wsgi_gateways	../pro/1001/web/wsgiserver/wsgiserver3.py	/^wsgi_gateways = {$/;"	kind:variable	line:2159
+wsgi_start_response	../pro/1001/web/httpserver.py	/^        def wsgi_start_response(self, response_status, response_headers, $/;"	kind:member	line:120
+wsgi_version	../pro/1001/web/wsgiserver/wsgiserver2.py	/^    wsgi_version = (1, 0)$/;"	kind:variable	line:2209
+wsgi_version	../pro/1001/web/wsgiserver/wsgiserver3.py	/^    wsgi_version = (1, 0)$/;"	kind:variable	line:1934
+wsgi_write_data	../pro/1001/web/httpserver.py	/^        def wsgi_write_data(self, data):$/;"	kind:member	line:129
+wsgifunc	../pro/1001/web/application.py	/^    def wsgifunc(self, *middleware):$/;"	kind:member	line:269
+wsgiref	../pro/1001/web/application.py	/^import wsgiref.handlers$/;"	kind:namespace	line:22
+wsgiserver	../pro/1001/web/httpserver.py	/^    from . import wsgiserver$/;"	kind:namespace	line:186
+wsgiserver	../pro/1001/web/wsgiserver/ssl_builtin.py	/^from cherrypy import wsgiserver$/;"	kind:namespace	line:24
+wsgiserver	../pro/1001/web/wsgiserver/ssl_pyopenssl.py	/^from cherrypy import wsgiserver$/;"	kind:namespace	line:37
+wsgiserver2.py	../pro/1001/web/wsgiserver/wsgiserver2.py	1;"	kind:file	line:1
+wsgiserver3.py	../pro/1001/web/wsgiserver/wsgiserver3.py	1;"	kind:file	line:1
+x	../sample/c3.py	/^x = "a"$/;"	kind:variable	line:80
+xjoin	../pro/1001/web/db.py	/^        def xjoin(a, b):$/;"	kind:function	line:751
+xstart_response	../pro/1001/web/httpserver.py	/^        def xstart_response(status, response_headers, *args):$/;"	kind:function	line:319
