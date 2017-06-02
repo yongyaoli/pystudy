@@ -59,7 +59,7 @@ print(my_abs(-91)) # my_abs 函数出自fun.py 中的my_abs 函数
 # print(my_abs("1"))
 help(isinstance)
 print("返回多个结果: return 结果1,结果2...   实际返回的是一个tulp")
-
+，
 def mores(w,h,m=1):
     return w*m,h*m
 
