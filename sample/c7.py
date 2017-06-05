@@ -21,4 +21,9 @@ print(10*fact(9))
 print(fact(100))
 
 
-fact(999)
+#fact(999)   # 栈溢出
+
+
+
+
+
