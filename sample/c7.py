@@ -1,10 +1,17 @@
 #! /usr/bin/env python3
 # -*- coding:utf-8 -*-
+import os
+import sys
+print(sys.version)
+
 
 '''
 上节学习函数 的参数
 本节学习递归函数: 函数内部调用函数本身
 '''
+
+
+
 
 def fact(n):
     '''
