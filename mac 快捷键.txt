@@ -3,7 +3,8 @@ http://blog.csdn.net/d_lds/article/details/63683624
 ====================================
 常用
 快速打开：command + P
-新建：shift + Command+N
+新建VS窗体：shift + Command+N
+新建文档：command + N
 滚动到页头/页尾: command + PgUp / command +PgDown
 到文档头部：fn + command + 向上箭头
 到文档结尾：fn + command + 向下箭头
