@@ -10,6 +10,11 @@ BIF 函数 sorted
 排序： sorted函数可以对list进行排序
 
 返回函数： 函数作为返回值
+匿名函数： 
+list(map(lambda x: x * x, [1, 2, 3, 4, 5]))
+关键词lambda 表示匿名函数，冒号前的x 表示函数参数
+匿名函数只能是一个表达式，不用return
+
 '''
 
 # 保留奇数
@@ -49,3 +54,6 @@ print(s)
 
 print(s())
 
+print('---'*20)
+v = list(map(lambda x: x * x, [1, 2, 3, 4, 5, 6, 7]))
+print(v)
