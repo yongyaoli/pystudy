@@ -13,3 +13,8 @@ C12:map/reduce 函数
 C13:BIF函数：filter，sorted; 返回函数，匿名函数
 C14:装饰器，偏函数
 C15:模块
+C16:OOP， 封装，继承，多态; 类，实例
+C17:访问限制，继承，多态
+C18:获取对象信息， type(), isinstance(),dir(),hasattr(),setattr(),getattr()
+C19:实例属性和类属性
+C20:__slots__
