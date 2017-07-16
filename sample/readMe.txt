@@ -18,3 +18,9 @@ C17:访问限制，继承，多态
 C18:获取对象信息， type(), isinstance(),dir(),hasattr(),setattr(),getattr()
 C19:实例属性和类属性
 C20:__slots__
+C21: 多重继承；定制类
+C22: 枚举类 ***
+C23: 错误， try...catch
+C24: 文档测试
+C25: 操作文件和目录
+C26: 序列化
