@@ -27,4 +27,10 @@ C26: 序列化
 C27: 正则表达式
 ---
 常用内建模块在module中
+c28: datetime
+c29: collections
+c30: base64
+c31: struct (byte 和其他二进制数据类型的转换)
+
+
 ---
