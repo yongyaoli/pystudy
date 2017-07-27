@@ -31,6 +31,8 @@ c28: datetime
 c29: collections
 c30: base64
 c31: struct (byte 和其他二进制数据类型的转换)
-
-
+c32: hashlib(md5,sha1)
+c33: itertools 提供了非常有用的用于操作迭代对象的函数
+c34: contextlib 上下文读写
+c35: xml
 ---
