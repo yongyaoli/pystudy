@@ -35,4 +35,6 @@ c32: hashlib(md5,sha1)
 c33: itertools 提供了非常有用的用于操作迭代对象的函数
 c34: contextlib 上下文读写
 c35: xml
+c36: htmlparser
+c37: urllib
 ---
