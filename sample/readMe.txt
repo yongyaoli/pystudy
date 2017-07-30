@@ -38,3 +38,16 @@ c35: xml
 c36: htmlparser
 c37: urllib
 ---
+DB
+01: sqlite3
+02: mysql (pymysql  pip3 install pymysql3)
+03: SQLAlchemy( ORM ) 我没学会，真的
+---
+web
+server,hello: wsgi
+myflask: flask简单使用，不带模版
+myflask2: flask 使用模版
+---
+blog：博客系统
+另外一个
+---

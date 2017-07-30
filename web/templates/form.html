@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        {% if message %}
+        <p style="color:red">{{message}}</p>
+        {% endif %}
+     <form action="/signin" method="POST">
+         <legend>Plese sigin in:</legend>
+         <p><input name="username" placeholder="Username" value="{{ username }}">
+         </p>
+         <p><input name='password' placeholder="Password" type="password"></p>
+         <p><button type="submit">Sigin In</button></p>
+     </form>
+    </body>
+</html>

@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # -*- coding:utf-8 -*-
 # 导入sqlite3 驱动
-import sqlite3
+import sqlite3,os
 '''
 sqllite
 '''
@@ -41,3 +41,7 @@ v = cc.fetchall()
 print(v)
 cc.close()
 c.close()
+
+#--------
+
+
